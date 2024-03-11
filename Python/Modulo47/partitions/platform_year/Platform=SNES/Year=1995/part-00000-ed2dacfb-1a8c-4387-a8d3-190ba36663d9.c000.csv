@@ -1,0 +1,55 @@
+Rank,Name,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales
+188,Donkey Kong Country 2: Diddy's Kong Quest,Platform,Nintendo,2.1,0.74,2.2,0.11,5.15
+283,Super Mario World 2: Yoshi's Island,Platform,Nintendo,1.65,0.61,1.76,0.09,4.12
+423,Killer Instinct,Fighting,Nintendo,2.26,0.72,0.12,0.1,3.2
+427,Dragon Quest VI: Maboroshi no Daichi,Role-Playing,Enix Corporation,0.0,0.0,3.19,0.0,3.19
+690,Chrono Trigger,Role-Playing,SquareSoft,0.28,0.0,2.02,0.01,2.31
+1523,Romancing SaGa 3,Role-Playing,SquareSoft,0.0,0.0,1.29,0.01,1.3
+1773,Derby Stallion III,Sports,ASCII Entertainment,0.0,0.0,1.15,0.0,1.15
+2048,NBA Jam Tournament Edition,Sports,Acclaim Entertainment,0.87,0.12,0.0,0.02,1.01
+2355,Seiken Densetsu 3,Role-Playing,SquareSoft,0.0,0.0,0.89,0.0,0.89
+2889,Tactics Ogre: Let Us Cling Together,Role-Playing,Quest,0.0,0.0,0.71,0.0,0.71
+3374,Front Mission,Strategy,SquareSoft,0.0,0.0,0.6,0.0,0.6
+4076,SimCity 2000,Simulation,THQ,0.0,0.0,0.49,0.0,0.49
+4162,Super Puyo Puyo 2,Puzzle,Compile,0.0,0.0,0.47,0.0,0.47
+4207,Super Momotarou Dentetsu DX,Misc,Hudson Soft,0.0,0.0,0.47,0.0,0.47
+4324,J-League Excite Stage '95,Sports,Epoch,0.0,0.0,0.45,0.0,0.45
+4636,Super Famista 4,Sports,Namco Bandai Games,0.0,0.0,0.42,0.0,0.42
+4767,Mario no Super Picross,Puzzle,Nintendo,0.0,0.0,0.41,0.0,0.41
+4857,Mystery Dungeon: Shiren the Wanderer,Role-Playing,ChunSoft,0.0,0.0,0.4,0.0,0.4
+4876,Tales of Phantasia,Role-Playing,Namco Bandai Games,0.0,0.0,0.4,0.0,0.4
+5050,Dai-4-Ji Super Robot Taisen,Strategy,Banpresto,0.0,0.0,0.38,0.0,0.38
+5291,Mega Man X3,Action,Laguna,0.04,0.01,0.3,0.0,0.35
+5716,Ganbare Goemon: KiraKira Douchuu - Boku ga Dancer ni Natta Riyuu,Platform,Konami Digital Entertainment,0.0,0.0,0.31,0.0,0.31
+5910,Winning Post 2,Sports,Tecmo Koei,0.0,0.0,0.3,0.0,0.3
+5922,Far East of Eden Zero,Role-Playing,Hudson Soft,0.0,0.0,0.3,0.0,0.3
+6117,Super Fire ProWrestling X,Fighting,Human Entertainment,0.0,0.0,0.28,0.0,0.28
+6194,Mega Man 7,Platform,Laguna,0.03,0.01,0.23,0.01,0.28
+6262,Nichibutsu Arcade Classics,Misc,Nichibutsu,0.0,0.0,0.28,0.0,0.28
+6365,Jikkyou Powerful Pro Yakyuu 2,Sports,Konami Digital Entertainment,0.0,0.0,0.27,0.0,0.27
+6415,Super Nazo Puyo: Ruruu no Ruu,Puzzle,Banpresto,0.0,0.0,0.27,0.0,0.27
+7387,Dragon Ball Z Hyper Dimension,Fighting,Namco Bandai Games,0.0,0.0,0.21,0.0,0.21
+7514,SD Gundam GNext,Strategy,Namco Bandai Games,0.0,0.0,0.2,0.0,0.2
+8566,International Superstar Soccer Deluxe,Sports,Konami Digital Entertainment,0.0,0.0,0.16,0.0,0.16
+8877,Tetris Attack,Puzzle,Nintendo,0.0,0.0,0.15,0.0,0.15
+9548,Mystic Ark,Role-Playing,Enix Corporation,0.0,0.0,0.13,0.0,0.13
+10410,Dragon Ball Z Super Gokuden: Kakusei-Hen,Role-Playing,Namco Bandai Games,0.0,0.0,0.11,0.0,0.11
+10422,Wizardry VI: Bane of the Cosmic Forge,Role-Playing,ASCII Entertainment,0.0,0.0,0.1,0.0,0.1
+10686,Zero4 Champ RR-Z,Racing,Media Rings,0.0,0.0,0.1,0.0,0.1
+10748,Derby Jockey 2,Sports,Asmik Corp,0.0,0.0,0.1,0.0,0.1
+10864,Terranigma,Role-Playing,Nintendo,0.0,0.0,0.09,0.0,0.09
+11049,Castlevania Dracula X,Platform,Konami Digital Entertainment,0.03,0.01,0.05,0.0,0.09
+12387,A llI S.V.: A Ressha de Gyoukou 3 Super Version,Simulation,Pack-In-Video,0.0,0.0,0.06,0.0,0.06
+12762,Doraemon 4: Nobita to Toki no Okoku,Platform,Epoch,0.0,0.0,0.06,0.0,0.06
+12905,Jirou Akagawa: Majotachi no Nemuri,Adventure,Pack-In-Video,0.0,0.0,0.05,0.0,0.05
+13123,Slam Dunk SD Heat Up!!,Sports,Namco Bandai Games,0.0,0.0,0.05,0.0,0.05
+13220,Jikkyou Oshaberi Parodius,Shooter,Konami Digital Entertainment,0.0,0.0,0.05,0.0,0.05
+13221,Super Jinsei Game 2,Misc,Takara,0.0,0.0,0.05,0.0,0.05
+13257,Block Kuzushi,Puzzle,Pow,0.0,0.0,0.05,0.0,0.05
+13547,Go Go Ackman 3,Platform,Banpresto,0.0,0.0,0.04,0.0,0.04
+13724,Metal Max Returns,Role-Playing,Data East,0.0,0.0,0.04,0.0,0.04
+13737,Zen-Nippon GT Senshuken,Racing,Banpresto,0.0,0.0,0.04,0.0,0.04
+14505,Daibakushou: Jinsei Gekijou,Misc,Taito,0.0,0.0,0.03,0.0,0.03
+14515,Konpeki no Kantai,Strategy,Angel Studios,0.0,0.0,0.03,0.0,0.03
+14569,Hissatsu Pachinko Collection 3,Misc,Sunsoft,0.0,0.0,0.03,0.0,0.03
+14810,Captain Tsubasa J: The Way to World Youth,Sports,Namco Bandai Games,0.0,0.0,0.03,0.0,0.03

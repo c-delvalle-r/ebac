@@ -1,0 +1,103 @@
+Rank,Name,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales
+158,Super Smash Bros.,Fighting,Nintendo,2.95,0.6,1.97,0.04,5.55
+166,Pokemon Stadium,Strategy,Nintendo,3.18,1.24,0.94,0.09,5.45
+176,Donkey Kong 64,Platform,Nintendo,3.33,0.79,1.09,0.06,5.27
+347,Pokemon Snap,Simulation,Nintendo,2.23,0.68,0.66,0.06,3.63
+444,Star Wars Episode I Racer,Racing,Nintendo,2.31,0.62,0.14,0.04,3.12
+616,Mario Party 2,Misc,Nintendo,1.28,0.14,1.08,0.01,2.5
+1281,WWF WrestleMania 2000,Fighting,THQ,1.2,0.25,0.02,0.02,1.48
+1290,Mario Golf,Action,Nintendo,0.62,0.18,0.65,0.02,1.47
+1329,Namco Museum 64,Misc,Namco Bandai Games,1.24,0.17,0.03,0.01,1.45
+1752,Jet Force Gemini,Shooter,Nintendo,0.78,0.28,0.07,0.02,1.16
+2237,Toy Story 2: Buzz Lightyear to the Rescue!,Platform,Activision,0.71,0.2,0.0,0.01,0.93
+2260,Knockout Kings 2000,Fighting,Electronic Arts,0.63,0.27,0.0,0.02,0.92
+2548,Army Men: Sarge's Heroes,Action,3DO,0.68,0.12,0.0,0.01,0.81
+2611,WCW Mayhem,Fighting,Electronic Arts,0.63,0.15,0.0,0.01,0.79
+2885,LEGO Racers,Racing,LEGO Media,0.51,0.18,0.0,0.01,0.71
+2886,WWF Attitude,Fighting,Acclaim Entertainment,0.57,0.13,0.0,0.01,0.71
+3158,Tom Clancy's Rainbow Six,Shooter,Red Storm Entertainment,0.48,0.15,0.0,0.01,0.64
+3159,Castlevania,Platform,Konami Digital Entertainment,0.44,0.1,0.04,0.05,0.64
+3160,Rayman 2: The Great Escape,Platform,Ubisoft,0.4,0.22,0.0,0.02,0.64
+3261,Beetle Adventure Racing!,Racing,Electronic Arts,0.4,0.2,0.0,0.02,0.62
+3328,Madden NFL 2000,Sports,Electronic Arts,0.58,0.02,0.0,0.0,0.61
+3415,Ready 2 Rumble Boxing,Sports,Midway Games,0.47,0.11,0.0,0.01,0.59
+3501,NFL Blitz 2000,Sports,Midway Games,0.55,0.02,0.0,0.0,0.58
+3592,Resident Evil 2,Action,Virgin Interactive,0.39,0.09,0.07,0.01,0.56
+3719,Gauntlet Legends,Action,Midway Games,0.43,0.1,0.0,0.01,0.54
+3820,NASCAR 2000,Racing,Electronic Arts,0.49,0.03,0.0,0.0,0.53
+3908,Rugrats: Scavenger Hunt,Misc,THQ,0.41,0.09,0.0,0.01,0.51
+3910,International Superstar Soccer 2000 (All region sales),Sports,Konami Digital Entertainment,0.01,0.26,0.22,0.02,0.51
+4117,Harvest Moon 64,Simulation,Pack In Soft,0.25,0.06,0.11,0.06,0.48
+4416,NBA Live 2000,Sports,Electronic Arts,0.42,0.02,0.0,0.0,0.44
+4626,Jikkyou Powerful Pro Yakyuu 6,Sports,Konami Digital Entertainment,0.0,0.0,0.39,0.03,0.42
+4730,Ogre Battle 64: Person of Lordly Caliber,Role-Playing,Nintendo,0.1,0.02,0.25,0.04,0.41
+4731,Superman: The New Superman Adventures,Action,Titus,0.33,0.07,0.0,0.0,0.41
+4828,RR64: Ridge Racer 64,Racing,Nintendo,0.32,0.07,0.0,0.0,0.4
+4830,NFL Quarterback Club 2000,Sports,Acclaim Entertainment,0.37,0.03,0.0,0.0,0.4
+4932,All-Star Baseball 2000,Sports,Acclaim Entertainment,0.36,0.03,0.0,0.0,0.39
+4935,BattleTanx: Global Assault,Action,3DO,0.31,0.07,0.0,0.0,0.39
+5127,Turok: Rage Wars,Shooter,Acclaim Entertainment,0.3,0.06,0.0,0.0,0.37
+5146,Bottom of the 9th,Sports,Konami Digital Entertainment,0.37,0.0,0.0,0.0,0.37
+5757,Hot Wheels Turbo Racing,Racing,Electronic Arts,0.25,0.06,0.0,0.0,0.31
+5759,Bass Hunter 64,Sports,Take-Two Interactive,0.25,0.06,0.0,0.0,0.31
+5887,Monster Truck Madness 64,Racing,Take-Two Interactive,0.24,0.06,0.0,0.0,0.3
+5888,Quake II,Shooter,Activision,0.24,0.06,0.0,0.0,0.3
+6027,Xena: Warrior Princess - The Talisman of Fate,Fighting,Titus,0.23,0.06,0.0,0.0,0.29
+6028,Jeremy McGrath Supercross 2000,Racing,Acclaim Entertainment,0.23,0.06,0.0,0.0,0.29
+6029,The New Tetris,Puzzle,Nintendo,0.22,0.05,0.02,0.0,0.29
+6030,Ken Griffey Jr.'s Slugfest,Sports,Nintendo,0.23,0.06,0.0,0.0,0.29
+6031,Supercross 2000,Racing,Electronic Arts,0.23,0.06,0.0,0.0,0.29
+6149,Triple Play 2000,Sports,Electronic Arts,0.27,0.01,0.0,0.0,0.28
+6347,Shadow Man,Action,Acclaim Entertainment,0.18,0.08,0.0,0.01,0.27
+6348,Command & Conquer,Strategy,Nintendo,0.22,0.05,0.0,0.0,0.27
+6526,Duke Nukem: Zero Hour,Shooter,GT Interactive,0.21,0.05,0.0,0.0,0.26
+6527,Armorines: Project S.W.A.R.M.,Shooter,Acclaim Entertainment,0.21,0.05,0.0,0.0,0.26
+6686,Hybrid Heaven,Role-Playing,Konami Digital Entertainment,0.16,0.04,0.05,0.0,0.25
+6687,NBA Showtime: NBA on NBC,Sports,Midway Games,0.23,0.02,0.0,0.0,0.25
+6694,NBA Courtside 2 featuring Kobe Bryant,Sports,Nintendo,0.2,0.05,0.0,0.0,0.25
+6869,Paperboy,Action,Midway Games,0.19,0.05,0.0,0.0,0.24
+6870,South Park: Chef's Luv Shack,Misc,Acclaim Entertainment,0.19,0.05,0.0,0.0,0.24
+6872,Road Rash 64,Racing,THQ,0.19,0.05,0.0,0.0,0.24
+7228,Rampage 2: Universal Tour,Action,GT Interactive,0.18,0.04,0.0,0.0,0.22
+7414,Monopoly,Misc,Hasbro Interactive,0.17,0.04,0.0,0.0,0.21
+7417,Gex 3: Deep Cover Gecko,Platform,Crave Entertainment,0.17,0.04,0.0,0.0,0.21
+7418,WinBack: Covert Operations,Shooter,Virgin Interactive,0.17,0.04,0.0,0.0,0.21
+7618,Roadsters 99,Racing,Titus,0.06,0.13,0.0,0.01,0.2
+7625,Super Robot Taisen 64,Strategy,Banpresto,0.0,0.0,0.2,0.0,0.2
+7867,Sesame Street: Elmo's Number Journey,Misc,NewKidCo,0.15,0.04,0.0,0.0,0.19
+8051,International Superstar Soccer 2000 (JP weekly sales),Sports,Konami Digital Entertainment,0.0,0.0,0.18,0.0,0.18
+8100,Sesame Street: Elmo's Letter Adventure,Misc,NewKidCo,0.14,0.04,0.0,0.0,0.18
+8101,Re-Volt,Racing,Acclaim Entertainment,0.14,0.04,0.0,0.0,0.18
+8339,World Driver Championship,Racing,Midway Games,0.14,0.03,0.0,0.0,0.17
+8340,Bomberman 64: The Second Attack!,Adventure,Hudson Soft,0.05,0.01,0.11,0.0,0.17
+8584,Asteroids Hyper 64,Shooter,Crave Entertainment,0.13,0.03,0.0,0.0,0.16
+8589,Space Invaders,Shooter,Activision,0.13,0.03,0.0,0.0,0.16
+8591,Destruction Derby 64,Racing,THQ,0.13,0.03,0.0,0.0,0.16
+8593,California Speed,Misc,Midway Games,0.13,0.03,0.0,0.0,0.16
+9154,Micro Machines 64 Turbo,Racing,Codemasters,0.11,0.03,0.0,0.0,0.14
+9155,Bassmasters 2000,Sports,THQ,0.11,0.03,0.0,0.0,0.14
+9482,NBA Jam 2000,Sports,Acclaim Entertainment,0.12,0.01,0.0,0.0,0.13
+9483,Castlevania: Legacy of Darkness,Platform,Konami Digital Entertainment,0.06,0.02,0.05,0.0,0.13
+9819,Earthworm Jim 3D,Platform,Interplay,0.1,0.02,0.0,0.0,0.12
+9820,Rocket: Robot on Wheels,Platform,Ubisoft,0.1,0.02,0.0,0.0,0.12
+9821,Densha De Go! 64,Simulation,Taito,0.0,0.0,0.05,0.07,0.12
+10218,Snowboard Kids 2,Sports,Atlus,0.09,0.02,0.0,0.0,0.11
+10219,Tonic Trouble,Platform,Ubisoft,0.09,0.02,0.0,0.0,0.11
+10220,Nuclear Strike 64,Simulation,THQ,0.09,0.02,0.0,0.0,0.11
+10222,Top Gear Rally 2,Racing,Kemco,0.09,0.02,0.0,0.0,0.11
+10225,Fighting Force 64,Action,Crave Entertainment,0.09,0.02,0.0,0.0,0.11
+11986,Shadowgate 64: Trials of the Four Towers,Adventure,Kemco,0.06,0.01,0.0,0.0,0.07
+12496,Neon Genesis Evangelion,Adventure,Namco Bandai Games,0.0,0.0,0.06,0.0,0.06
+12506,Top Gear Hyper-Bike,Racing,Kemco,0.05,0.01,0.0,0.0,0.06
+12507,Brunswick Circuit Pro Bowling,Sports,THQ,0.05,0.01,0.0,0.0,0.06
+13085,NHL Blades of Steel '99,Sports,Konami Digital Entertainment,0.05,0.0,0.0,0.0,0.05
+13114,All Star Tennis 99,Sports,Ubisoft,0.04,0.01,0.0,0.0,0.05
+13117,Fighter Destiny 2,Fighting,Imagineer,0.04,0.01,0.0,0.0,0.05
+13436,Choro Q 64 2: Hacha Mecha Grand Prix Race,Racing,Takara,0.0,0.0,0.05,0.0,0.05
+13740,PD Ultraman Battle Collection 64,Strategy,Namco Bandai Games,0.0,0.0,0.04,0.0,0.04
+13741,Monaco Grand Prix,Racing,Ubisoft,0.03,0.01,0.0,0.0,0.04
+13742,Worms Armageddon,Strategy,Infogrames,0.03,0.01,0.0,0.0,0.04
+13743,Rally Challenge 2000,Racing,Imagineer,0.03,0.01,0.0,0.0,0.04
+14496,Charlie Blasts Territory,Action,Kemco,0.02,0.01,0.0,0.0,0.03
+15375,Super Bowling,Sports,Athena,0.02,0.0,0.0,0.0,0.02
+16586,Carmageddon 64,Action,Virgin Interactive,0.01,0.0,0.0,0.0,0.01

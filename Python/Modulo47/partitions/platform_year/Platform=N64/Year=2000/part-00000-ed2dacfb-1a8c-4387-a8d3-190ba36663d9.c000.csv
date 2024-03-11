@@ -1,0 +1,61 @@
+Rank,Name,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales
+399,The Legend of Zelda: Majora's Mask,Action,Nintendo,1.9,0.67,0.73,0.06,3.36
+548,Pokémon Stadium 2,Strategy,Nintendo,1.02,0.36,1.13,0.23,2.73
+610,Perfect Dark,Action,Nintendo,1.55,0.75,0.16,0.06,2.52
+685,Mario Tennis,Sports,Nintendo,0.78,0.4,1.06,0.07,2.32
+780,Tony Hawk's Pro Skater,Sports,Activision,1.68,0.4,0.0,0.03,2.11
+904,Mario Party 3,Misc,Nintendo,0.72,0.16,1.01,0.02,1.91
+986,Kirby 64: The Crystal Shards,Platform,Nintendo,0.63,0.06,1.03,0.04,1.77
+1202,007: The World is not Enough,Action,Electronic Arts,1.13,0.38,0.02,0.03,1.55
+1261,WWF No Mercy,Fighting,THQ,1.2,0.27,0.02,0.02,1.5
+1273,Banjo-Tooie,Platform,Nintendo,0.82,0.36,0.25,0.06,1.49
+1403,Paper Mario,Role-Playing,Nintendo,0.58,0.18,0.59,0.02,1.38
+2062,Excitebike 64,Racing,Nintendo,0.65,0.15,0.19,0.01,1.0
+3177,Madden NFL 2001,Sports,Electronic Arts,0.6,0.03,0.0,0.01,0.64
+3362,Mickey's Speedway USA,Racing,Nintendo,0.37,0.08,0.14,0.01,0.6
+3796,Spider-Man,Action,Activision,0.43,0.09,0.0,0.01,0.53
+3978,Rugrats in Paris: The Movie,Action,THQ,0.4,0.09,0.0,0.01,0.5
+4367,Pokemon Puzzle League,Puzzle,Nintendo,0.36,0.08,0.0,0.01,0.45
+4624,NFL Blitz 2001,Sports,Midway Games,0.34,0.07,0.0,0.0,0.42
+4627,Army Men: Sarge's Heroes 2,Shooter,3DO,0.34,0.07,0.0,0.0,0.42
+4933,Custom Robo V2,Fighting,Nintendo,0.0,0.0,0.34,0.05,0.39
+5126,Fushigi no Dungeon: Furai no Shiren 2 - Oni Shuurai! Shiren Shiro!,Role-Playing,ChunSoft,0.0,0.0,0.32,0.05,0.37
+5128,Scooby-Doo! Classic Creep Capers,Action,THQ,0.3,0.06,0.0,0.0,0.37
+5209,Saban's Power Rangers: Lightspeed Rescue,Action,THQ,0.29,0.06,0.0,0.0,0.36
+5306,Jikkyou Powerful Pro Yakyuu 2000,Sports,Konami Digital Entertainment,0.0,0.0,0.29,0.06,0.35
+6525,Star Wars Episode I: Battle for Naboo,Simulation,LucasArts,0.21,0.05,0.0,0.0,0.26
+6871,Midway's Greatest Arcade Hits Volume 1,Misc,Midway Games,0.19,0.05,0.0,0.0,0.24
+6873,Ready 2 Rumble Boxing: Round 2,Fighting,Midway Games,0.19,0.05,0.0,0.0,0.24
+6874,Army Men: Air Combat,Action,3DO,0.19,0.05,0.0,0.0,0.24
+7007,All-Star Baseball 2001,Sports,Acclaim Entertainment,0.22,0.01,0.0,0.0,0.23
+7225,ECW Hardcore Revolution,Fighting,Acclaim Entertainment,0.18,0.04,0.0,0.0,0.22
+7226,Mega Man 64,Action,Capcom,0.14,0.03,0.05,0.0,0.22
+7229,Ms. Pac-Man: Maze Madness,Puzzle,Namco Bandai Games,0.18,0.04,0.0,0.0,0.22
+7416,Cruis'n Exotica,Racing,Midway Games,0.17,0.04,0.0,0.0,0.21
+7616,Tigger's Honey Hunt,Platform,Ubisoft,0.16,0.04,0.0,0.0,0.2
+7621,Disney's Tarzan,Platform,Activision,0.16,0.04,0.0,0.0,0.2
+7622,South Park Rally,Racing,Acclaim Entertainment,0.16,0.04,0.0,0.0,0.2
+7624,San Francisco Rush 2049,Racing,Midway Games,0.16,0.04,0.0,0.0,0.2
+8341,Turok 3: Shadow of Oblivion,Shooter,Acclaim Entertainment,0.12,0.05,0.0,0.0,0.17
+8587,Tom and Jerry in Fists of Furry,Fighting,Ubisoft,0.13,0.03,0.0,0.0,0.16
+8588,Hydro Thunder,Racing,Midway Games,0.13,0.03,0.0,0.0,0.16
+8590,Starcraft 64,Strategy,Nintendo,0.13,0.03,0.0,0.0,0.16
+8864,Doraemon 3: Nobi Dai no Machi SOS!,Platform,Epoch,0.0,0.0,0.09,0.06,0.15
+9481,Sin and Punishment,Shooter,Nintendo,0.0,0.0,0.13,0.0,0.13
+9818,NFL QB Club 2001,Sports,Acclaim Entertainment,0.11,0.01,0.0,0.0,0.12
+10224,Vigilante 8: 2nd Offense,Racing,Activision,0.09,0.02,0.0,0.0,0.11
+10471,Mickey's Speedway USA (weekly JP sales),Racing,Nintendo,0.0,0.0,0.1,0.0,0.1
+10633,Disney's Donald Duck: Goin' Quackers,Platform,Ubisoft,0.08,0.02,0.0,0.0,0.1
+10637,Indy Racing 2000,Racing,Infogrames,0.08,0.02,0.0,0.0,0.1
+11052,Batman Beyond: Return of the Joker,Action,Ubisoft,0.07,0.02,0.0,0.0,0.09
+11925,Itoi Shigesato no Bass Tsuri No. 1 Ketteihan!,Sports,Nintendo,0.0,0.0,0.07,0.0,0.07
+11984,Battlezone: Rise of the Black Dogs,Strategy,Crave Entertainment,0.06,0.01,0.0,0.0,0.07
+11989,Mia Hamm Soccer 64,Sports,THQ,0.06,0.01,0.0,0.0,0.07
+12509,CyberTiger,Sports,Electronic Arts,0.05,0.01,0.0,0.0,0.06
+12517,Polaris SnoCross,Racing,Vatical Entertainment,0.05,0.01,0.0,0.0,0.06
+13112,Blues Brothers 2000,Platform,Virgin Interactive,0.04,0.01,0.0,0.0,0.05
+13115,Hercules: The Legendary Journeys,Role-Playing,Titus,0.04,0.01,0.0,0.0,0.05
+13710,NBA in the Zone 2000,Sports,Konami Digital Entertainment,0.04,0.0,0.0,0.0,0.04
+13744,Looney Tunes Duck Dodgers Starring: Daffy Duck,Platform,Infogrames,0.03,0.01,0.0,0.0,0.04
+15376,Rat Attack!,Puzzle,Mindscape,0.02,0.0,0.0,0.0,0.02
+16582,PGA European Tour,Sports,Infogrames,0.01,0.0,0.0,0.0,0.01

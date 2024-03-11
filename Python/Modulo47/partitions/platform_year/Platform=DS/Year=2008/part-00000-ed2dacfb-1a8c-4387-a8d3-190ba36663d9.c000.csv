@@ -1,0 +1,493 @@
+Rank,Name,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales
+89,Pokémon Platinum Version,Role-Playing,Nintendo,2.82,1.78,2.69,0.55,7.84
+190,Mario & Sonic at the Olympic Games,Sports,Sega,1.64,2.48,0.44,0.58,5.14
+381,Guitar Hero: On Tour,Misc,Activision,2.11,1.01,0.01,0.35,3.48
+400,Professor Layton and the Unwound Future,Puzzle,Nintendo,0.65,1.61,0.82,0.28,3.36
+433,Rhythm Heaven,Misc,Nintendo,0.58,0.51,1.93,0.14,3.17
+435,Club Penguin: Elite Penguin Force,Adventure,Disney Interactive Studios,1.88,0.98,0.0,0.3,3.16
+437,LEGO Batman: The Videogame,Action,Warner Bros. Interactive Entertainment,1.79,1.06,0.0,0.29,3.15
+482,Kirby Super Star Ultra,Platform,Nintendo,1.57,0.04,1.19,0.15,2.96
+586,Style Savvy,Simulation,Nintendo,0.63,0.84,0.96,0.19,2.61
+694,Pokemon Ranger: Shadows of Almia,Role-Playing,Nintendo,0.95,0.54,0.62,0.18,2.3
+725,LEGO Indiana Jones: The Original Adventures,Action,Activision,1.42,0.61,0.0,0.21,2.23
+824,Carnival Games,Misc,Take-Two Interactive,1.23,0.64,0.0,0.19,2.05
+1038,Imagine: Teacher,Simulation,Ubisoft,0.7,0.83,0.0,0.19,1.72
+1157,Dragon Quest V: Hand of the Heavenly Bride,Role-Playing,Square Enix,0.19,0.02,1.36,0.02,1.6
+1172,Guitar Hero: On Tour Decades,Misc,Activision,0.85,0.58,0.0,0.16,1.58
+1173,MySims Kingdom,Simulation,Electronic Arts,0.81,0.6,0.01,0.17,1.58
+1177,High School Musical 3: Senior Year,Misc,Disney Interactive Studios,0.64,0.76,0.0,0.17,1.58
+1216,Disney Fairies: Tinker Bell,Adventure,Disney Interactive Studios,0.86,0.52,0.01,0.15,1.54
+1272,Drawn To Life: SpongeBob SquarePants Edition,Adventure,THQ,1.0,0.36,0.0,0.13,1.49
+1294,Chrono Trigger,Role-Playing,Square Enix,0.69,0.2,0.49,0.09,1.47
+1304,Wall-E,Platform,THQ,0.46,0.83,0.0,0.17,1.46
+1537,Mystery Case Files: MillionHeir,Adventure,Nintendo,0.76,0.4,0.0,0.12,1.29
+1542,Imagine: Wedding Designer,Simulation,Ubisoft,0.55,0.59,0.0,0.14,1.28
+1571,Kung Fu Panda,Action,Activision,0.56,0.57,0.0,0.14,1.26
+1775,High School Musical 2: Work This Out!,Misc,Disney Interactive Studios,0.5,0.52,0.0,0.13,1.15
+1873,Imagine: Babysitters,Simulation,Ubisoft,0.63,0.36,0.0,0.1,1.09
+1912,Spore Creatures,Simulation,Electronic Arts,0.67,0.3,0.0,0.11,1.08
+1922,Imagine: Fashion Designer New York,Simulation,Ubisoft,0.65,0.32,0.0,0.1,1.07
+1943,Junior Brain Trainer,Misc,GSP,0.23,0.74,0.0,0.1,1.06
+2081,Puzzler Collection,Puzzle,Ubisoft,0.17,0.78,0.0,0.04,1.0
+2087,Littlest Pet Shop: Winter,Simulation,Electronic Arts,0.59,0.31,0.0,0.1,0.99
+2165,My Weight Loss Coach,Sports,Ubisoft,0.3,0.54,0.0,0.11,0.96
+2180,Ben 10: Alien Force,Action,Koch Media,0.65,0.22,0.0,0.09,0.95
+2290,Call of Duty: World at War,Shooter,Activision,0.57,0.26,0.0,0.08,0.91
+2305,TouchMaster 2,Puzzle,Midway Games,0.3,0.49,0.0,0.1,0.9
+2312,Star Wars: The Force Unleashed,Action,LucasArts,0.51,0.29,0.0,0.09,0.9
+2320,Fossil Fighters,Role-Playing,Nintendo,0.84,0.0,0.0,0.06,0.9
+2333,Sonic Chronicles: The Dark Brotherhood,Role-Playing,Sega,0.51,0.29,0.01,0.09,0.89
+2360,Peppa Pig: The Game,Misc,Pinnacle,0.0,0.82,0.0,0.06,0.88
+2425,The Legendary Starfy,Platform,Nintendo,0.61,0.0,0.2,0.05,0.86
+2462,Petz Dogz Fashion,Simulation,Ubisoft,0.46,0.3,0.0,0.09,0.84
+2485,Battle of Giants: Dinosaurs,Strategy,Ubisoft,0.38,0.37,0.0,0.09,0.83
+2527,Imagine: Rock Star,Simulation,Ubisoft,0.4,0.33,0.0,0.09,0.82
+2610,Star Wars The Clone Wars: Jedi Alliance,Action,LucasArts,0.62,0.11,0.0,0.07,0.79
+2626,Personal Trainer: Walking,Sports,Nintendo,0.22,0.32,0.17,0.07,0.79
+2639,My Little Pony: Pinkie Pie's Party,Adventure,THQ,0.72,0.0,0.0,0.06,0.78
+2678,My Baby Girl,Simulation,Nobilis,0.61,0.1,0.0,0.06,0.77
+2754,Madagascar: Escape 2 Africa,Action,Activision,0.42,0.26,0.0,0.07,0.75
+2762,Sega Superstars Tennis,Sports,Sega,0.29,0.37,0.0,0.08,0.75
+2822,Imagine: Interior Designer,Simulation,Ubisoft,0.34,0.31,0.0,0.08,0.73
+2910,The Sims 2: Apartment Pets,Simulation,Electronic Arts,0.32,0.31,0.0,0.07,0.7
+3008,100 Classic Books,Misc,Nintendo,0.13,0.52,0.0,0.02,0.67
+3116,Fire Emblem: Shadow Dragon,Role-Playing,Nintendo,0.31,0.03,0.27,0.03,0.65
+3132,Meccha! Taiko no Tatsujin Master DS: 7-tsu no Shima no Daibouken,Misc,Namco Bandai Games,0.0,0.0,0.65,0.0,0.65
+3258,Bolt,Adventure,Disney Interactive Studios,0.35,0.21,0.0,0.06,0.62
+3309,Littlest Pet Shop: Garden,Simulation,Electronic Arts,0.31,0.24,0.0,0.06,0.61
+3317,Petz: Dogz Pack,Simulation,Ubisoft,0.56,0.0,0.0,0.05,0.61
+3331,Littlest Pet Shop: Jungle,Simulation,Electronic Arts,0.34,0.2,0.0,0.06,0.61
+3452,Harvest Moon: Sunshine Islands,Simulation,Rising Star Games,0.35,0.03,0.17,0.03,0.58
+3521,SpongeBob SquarePants featuring Nicktoons: Globs of Doom,Action,THQ,0.53,0.0,0.0,0.04,0.57
+3529,Petz Wild Animals: Tigerz,Simulation,Ubisoft,0.52,0.01,0.0,0.04,0.57
+3603,Viva Pinata: Pocket Paradise,Simulation,THQ,0.27,0.23,0.0,0.06,0.56
+3614,DS Bimoji Training,Misc,Nintendo,0.0,0.0,0.56,0.0,0.56
+3616,Petz Catz Clan,Simulation,Ubisoft,0.48,0.04,0.0,0.04,0.56
+3661,Barbie Horse Adventures: Riding Camp,Sports,Activision,0.51,0.0,0.0,0.04,0.55
+3662,CrossworDS,Puzzle,Deep Silver,0.51,0.0,0.0,0.04,0.55
+3710,Inazuma Eleven,Role-Playing,Nintendo,0.0,0.14,0.38,0.02,0.54
+3727,Let's Draw!,Misc,Ubisoft,0.24,0.23,0.0,0.06,0.54
+3733,Rune Factory 2: A Fantasy Harvest Moon,Role-Playing,Rising Star Games,0.33,0.03,0.15,0.03,0.54
+3741,Hello Kitty: Big City Dreams,Puzzle,Empire Interactive,0.42,0.08,0.0,0.04,0.54
+3751,Magician's Quest: Mysterious Times,Role-Playing,Konami Digital Entertainment,0.04,0.01,0.48,0.0,0.54
+3826,Guinness World Records: The Videogame,Action,Warner Bros. Interactive Entertainment,0.47,0.01,0.0,0.04,0.52
+3830,Spectrobes: Beyond the Portals,Role-Playing,Disney Interactive Studios,0.37,0.11,0.0,0.04,0.52
+3874,Iron Man,Action,Sega,0.35,0.12,0.0,0.05,0.52
+3897,Jam With the Band,Misc,Nintendo,0.0,0.0,0.51,0.0,0.51
+3998,The Price is Right,Misc,Ubisoft,0.46,0.0,0.0,0.04,0.5
+4041,FIFA Soccer 09,Sports,Electronic Arts,0.12,0.31,0.0,0.06,0.49
+4071,Jake Power: Fireman,Adventure,Ubisoft,0.08,0.35,0.0,0.06,0.49
+4081,Rayman Raving Rabbids: TV Party,Misc,Ubisoft,0.44,0.01,0.0,0.04,0.49
+4115,Go Diego Go! Great Dinosaur Rescue,Action,Take-Two Interactive,0.44,0.01,0.0,0.03,0.48
+4220,Mega Man Star Force 3: Black Ace / Red Joker,Action,Capcom,0.22,0.0,0.22,0.02,0.47
+4228,The Legend of Spyro: Dawn of the Dragon,Platform,Vivendi Games,0.26,0.15,0.0,0.05,0.46
+4250,Sid Meier's Civilization Revolution,Strategy,Take-Two Interactive,0.38,0.03,0.02,0.04,0.46
+4252,Dora The Explorer: Dora Saves the Snow Princess,Platform,Take-Two Interactive,0.27,0.16,0.0,0.04,0.46
+4262,American Girl: Kit Mystery Challenge!,Adventure,THQ,0.42,0.0,0.0,0.03,0.46
+4333,Brain Challenge,Misc,Ubisoft,0.41,0.01,0.0,0.03,0.45
+4536,Petz Bunnyz,Simulation,Ubisoft,0.39,0.01,0.0,0.03,0.43
+4574,Valkyrie Profile: Covenant of the Plume,Role-Playing,Square Enix,0.23,0.02,0.16,0.02,0.42
+4591,Crash: Mind Over Mutant,Platform,Vivendi Games,0.39,0.0,0.0,0.03,0.42
+4651,Harvest Moon: Grand Bazaar,Simulation,Rising Star Games,0.22,0.05,0.13,0.02,0.42
+4709,Castlevania: Order of Ecclesia,Platform,Konami Digital Entertainment,0.31,0.03,0.04,0.03,0.41
+4892,Monster Jam: Urban Assault,Racing,Activision,0.37,0.0,0.0,0.03,0.39
+4907,Ener-G: Gym Rockets,Sports,Ubisoft,0.36,0.0,0.0,0.03,0.39
+4911,Dancing with the Stars: We Dance!,Misc,Activision,0.36,0.0,0.0,0.03,0.39
+4914,Are You Smarter than a 5th Grader? Make the Grade,Misc,THQ,0.36,0.0,0.0,0.03,0.39
+4980,Phantasy Star Ø,Role-Playing,Sega,0.16,0.0,0.2,0.01,0.38
+5064,Petz Rescue: Wildlife Vet,Simulation,Ubisoft,0.35,0.0,0.0,0.03,0.38
+5083,Petz Rescue: Ocean Patrol,Adventure,Ubisoft,0.35,0.0,0.0,0.03,0.37
+5085,Puppy Palace,Simulation,Ubisoft,0.35,0.0,0.0,0.03,0.37
+5090,Naruto Shippuden: Ninja Destiny 2,Fighting,Takara Tomy,0.19,0.03,0.13,0.02,0.37
+5108,Hell's Kitchen: The Game,Simulation,Ubisoft,0.34,0.01,0.0,0.03,0.37
+5199,Speed Racer: The Videogame,Racing,Warner Bros. Interactive Entertainment,0.29,0.05,0.0,0.03,0.36
+5262,Wonder Pets! Save the Animals!,Adventure,Take-Two Interactive,0.33,0.0,0.0,0.02,0.36
+5301,SimCity Creator,Simulation,Electronic Arts,0.3,0.03,0.0,0.03,0.35
+5332,Hello Kitty Daily,Misc,Nobilis,0.32,0.0,0.0,0.03,0.35
+5410,Smart Girl's Party Game,Misc,505 Games,0.31,0.0,0.0,0.02,0.34
+5414,My Baby Boy,Simulation,Nobilis,0.3,0.02,0.0,0.03,0.34
+5419,Imagine: Movie Star,Simulation,Ubisoft,0.31,0.0,0.0,0.02,0.34
+5499,Madden NFL 09,Sports,Electronic Arts,0.3,0.0,0.0,0.03,0.33
+5520,Goosebumps HorrorLand,Adventure,Scholastic Inc.,0.31,0.0,0.0,0.02,0.33
+5591,Bratz: Girlz Really Rock,Action,THQ,0.18,0.11,0.0,0.03,0.32
+5596,Momotarou Dentetsu 20-Shuunen,Misc,Hudson Soft,0.0,0.0,0.32,0.0,0.32
+5662,Derby Stallion DS,Sports,Enterbrain,0.0,0.0,0.32,0.0,0.32
+5692,Quiz Magic Academy DS,Misc,Konami Digital Entertainment,0.0,0.0,0.32,0.0,0.32
+5866,Zoo Tycoon 2 DS,Strategy,THQ,0.24,0.03,0.0,0.02,0.3
+5882,Fossil Fighters (JP sales),Role-Playing,Nintendo,0.0,0.0,0.3,0.0,0.3
+5886,Glory of Heracles,Role-Playing,Nintendo,0.2,0.0,0.08,0.01,0.3
+6067,Neopets Puzzle Adventure,Puzzle,Capcom,0.26,0.0,0.0,0.02,0.29
+6080,Penguin no Mondai: Saikyou Penguin Densetsu! A Penguin's Troubles,Adventure,Konami Digital Entertainment,0.0,0.0,0.29,0.0,0.29
+6091,Power Pro Kun Pocket 11,Sports,Konami Digital Entertainment,0.0,0.0,0.29,0.0,0.29
+6099,Bratz: Super Babyz,Action,THQ,0.26,0.0,0.0,0.02,0.29
+6106,All Star Cheer Squad,Sports,THQ,0.26,0.0,0.0,0.02,0.28
+6240,My Japanese Coach,Misc,Ubisoft,0.25,0.0,0.0,0.02,0.28
+6288,Suikoden Tierkreis,Role-Playing,Konami Digital Entertainment,0.09,0.01,0.15,0.01,0.27
+6342,Reader Rabbit Kindergarten,Misc,Nordic Games,0.25,0.0,0.0,0.02,0.27
+6363,Etrian Odyssey II: Heroes of Lagaard,Role-Playing,Atlus,0.1,0.0,0.16,0.01,0.27
+6394,Cake Mania 2: Jill's Next Adventure!,Puzzle,Majesco Entertainment,0.24,0.0,0.0,0.02,0.27
+6481,Nancy Drew: The Mystery of the Clue Bender Society,Adventure,Codemasters,0.24,0.0,0.0,0.02,0.26
+6499,Babysitting Mania,Simulation,Majesco Entertainment,0.24,0.0,0.0,0.02,0.26
+6559,Bratz Ponyz 2,Adventure,Game Factory,0.24,0.0,0.0,0.02,0.26
+6614,Imagine: Ballet Star,Simulation,Ubisoft,0.23,0.01,0.0,0.02,0.25
+6747,Cradle of Rome,Puzzle,Rising Star Games,0.06,0.16,0.0,0.03,0.25
+6773,Tales of Hearts,Role-Playing,Namco Bandai Games,0.0,0.0,0.24,0.0,0.24
+6782,Avalon Code,Role-Playing,Rising Star Games,0.11,0.0,0.12,0.01,0.24
+6807,The Incredible Hulk,Action,Sega,0.22,0.0,0.0,0.02,0.24
+6854,Paws & Claws: Pet Resort,Simulation,THQ,0.22,0.0,0.0,0.02,0.24
+6887,Amazing Adventures: The Forgotten Ruins,Adventure,PopCap Games,0.13,0.08,0.0,0.02,0.24
+6918,Shrek's Carnival Craze Party Games,Misc,Activision,0.22,0.0,0.0,0.02,0.24
+6946,Sands of Destruction,Role-Playing,Sega,0.09,0.0,0.13,0.01,0.24
+6956,Need For Speed: Undercover,Racing,Electronic Arts,0.18,0.03,0.0,0.02,0.23
+6984,Hotel for Dogs,Simulation,505 Games,0.22,0.0,0.0,0.02,0.23
+7026,Shaun White Snowboarding,Sports,Ubisoft,0.21,0.0,0.0,0.02,0.23
+7028,Ultimate Band,Misc,Disney Interactive Studios,0.19,0.02,0.0,0.02,0.23
+7031,What's Cooking? Jamie Oliver,Simulation,Atari,0.2,0.01,0.0,0.02,0.23
+7043,I Love Horses,Simulation,GSP,0.21,0.0,0.0,0.01,0.23
+7049,Luminous Arc 2,Role-Playing,Rising Star Games,0.21,0.0,0.0,0.02,0.23
+7081,Saka-Tsuku DS: Touch and Direct,Sports,Sega,0.0,0.0,0.23,0.0,0.23
+7134,Petz Monkeyz House,Simulation,Ubisoft,0.2,0.0,0.0,0.02,0.23
+7164,Discovery Kids: Dolphin Discovery,Simulation,505 Games,0.21,0.0,0.0,0.01,0.22
+7173,Ragnarok DS,Role-Playing,GungHo,0.1,0.0,0.11,0.01,0.22
+7178,Petz Rescue: Endangered Paradise,Adventure,Ubisoft,0.21,0.0,0.0,0.02,0.22
+7206,KORG DS-10 Synthesizer,Misc,AQ Interactive,0.2,0.01,0.0,0.02,0.22
+7231,Age of Empires: Mythologies,Strategy,THQ,0.17,0.03,0.0,0.02,0.22
+7238,Dragon Ball: Origins (JP & incomplete US sales),Adventure,Atari,0.04,0.0,0.17,0.0,0.22
+7257,Tamagotchi no KiraKira Omisecchi,Misc,Namco Bandai Games,0.0,0.0,0.22,0.0,0.22
+7286,Pass the Pigs,Misc,THQ,0.2,0.0,0.0,0.02,0.22
+7310,Ninja Gaiden: Dragon Sword,Action,Tecmo Koei,0.17,0.02,0.02,0.02,0.22
+7312,Blue Dragon Plus,Role-Playing,Ignition Entertainment,0.12,0.04,0.05,0.01,0.22
+7391,The Chronicles of Narnia: Prince Caspian,Action,Disney Interactive Studios,0.19,0.01,0.0,0.02,0.21
+7451,Tony Hawk's Motion,Sports,Activision,0.19,0.0,0.0,0.02,0.21
+7457,Wacky Races: Crash & Dash,Racing,Eidos Interactive,0.19,0.0,0.0,0.01,0.21
+7467,Barbie Fashion Show: An Eye for Style,Misc,Activision,0.19,0.0,0.0,0.02,0.21
+7547,Deal or No Deal: The Banker is Back!,Misc,Mindscape,0.0,0.2,0.0,0.0,0.2
+7632,Tomb Raider: Underworld,Action,Eidos Interactive,0.16,0.03,0.0,0.02,0.2
+7658,The Cheetah Girls: Passport to Stardom,Misc,Disney Interactive Studios,0.18,0.0,0.0,0.01,0.2
+7665,My Secret World by Imagine,Misc,Ubisoft,0.0,0.2,0.0,0.0,0.2
+7668,Bleach: The 3rd Phantom,Role-Playing,Sega,0.1,0.02,0.07,0.01,0.2
+7712,101-in-1 Explosive Megamix,Puzzle,Nordcurrent,0.05,0.13,0.0,0.02,0.2
+7729,The Naked Brothers Band: The Video Game,Misc,THQ,0.18,0.0,0.0,0.01,0.2
+7736,Nostalgia,Role-Playing,Tecmo Koei,0.16,0.0,0.02,0.01,0.19
+7738,Iron Chef America: Supreme Cuisine,Simulation,Destineer,0.18,0.0,0.0,0.01,0.19
+7780,Disgaea DS,Role-Playing,Square Enix,0.11,0.02,0.05,0.01,0.19
+7836,Mahjong: Journey Quest for Tikal,Puzzle,Rondomedia,0.15,0.03,0.0,0.01,0.19
+7870,Tottadoo! Yoiko no Mujintou Seikatsu,Adventure,Namco Bandai Games,0.0,0.0,0.19,0.0,0.19
+7882,Pro Yakyuu Team o Tsukurou!,Sports,Sega,0.0,0.0,0.19,0.0,0.19
+7970,WWE SmackDown vs. Raw 2009,Fighting,THQ,0.15,0.02,0.0,0.01,0.19
+8081,Six Flags Fun Park,Misc,Brash Entertainment,0.17,0.0,0.0,0.01,0.18
+8167,Skate it,Sports,Electronic Arts,0.14,0.02,0.0,0.01,0.18
+8175,SimCity Creator (JP sales),Simulation,Electronic Arts,0.0,0.0,0.18,0.0,0.18
+8186,Nancy Drew: The Hidden Staircase,Adventure,THQ,0.16,0.0,0.0,0.01,0.18
+8361,Tak: Mojo Mistake,Action,THQ,0.16,0.0,0.0,0.01,0.17
+8434,TransFormers Animated: The Game,Action,Activision,0.15,0.01,0.0,0.01,0.17
+8575,Ener-G: Dance Squad,Sports,Ubisoft,0.15,0.0,0.0,0.01,0.16
+8610,Ener-G Horse Riders,Sports,Ubisoft,0.14,0.01,0.0,0.01,0.16
+8611,Time Hollow,Adventure,Konami Digital Entertainment,0.03,0.01,0.11,0.0,0.16
+8628,Burger Island,Action,Destineer,0.15,0.0,0.0,0.01,0.16
+8735,The Quest Trio,Puzzle,Avanquest,0.14,0.01,0.0,0.01,0.15
+8737,Space Invaders Extreme,Shooter,Square Enix,0.12,0.01,0.01,0.01,0.15
+8905,The Wizard of Oz: Beyond The Yellow Brick Road,Role-Playing,D3Publisher,0.13,0.0,0.0,0.01,0.15
+8961,Shin Chan: ¡Aventuras de Cine!,Platform,505 Games,0.0,0.0,0.15,0.0,0.15
+8978,Travel Games For Dummies,Misc,Electronic Arts,0.13,0.0,0.0,0.01,0.15
+8993,Metal Slug 7,Shooter,Ignition Entertainment,0.13,0.0,0.01,0.01,0.15
+9030,Super Robot Taisen OG Saga: Endless Frontier (JP sales),Role-Playing,Namco Bandai Games,0.0,0.0,0.14,0.0,0.14
+9065,Super Dodgeball Brawlers,Sports,Arc System Works,0.13,0.0,0.0,0.01,0.14
+9071,Monster Lab,Role-Playing,Eidos Interactive,0.12,0.01,0.0,0.01,0.14
+9086,Hero's Saga Laevatein Tactics,Role-Playing,GungHo,0.13,0.0,0.0,0.01,0.14
+9111,Top Spin 3,Action,D3Publisher,0.11,0.02,0.0,0.01,0.14
+9195,Syberia,Action,Mindscape,0.1,0.02,0.0,0.01,0.14
+9218,Ninjatown,Strategy,SouthPeak Games,0.12,0.0,0.0,0.01,0.14
+9283,Gourmet Chef: Cook Your Way to Fame,Misc,Ubisoft,0.13,0.0,0.0,0.01,0.14
+9320,007: Quantum of Solace,Action,Activision,0.11,0.01,0.0,0.01,0.14
+9329,Back At The Barnyard: Slop Bucket Games,Sports,THQ,0.12,0.0,0.0,0.01,0.14
+9330,Quick Yoga Training,Misc,Ubisoft,0.13,0.0,0.0,0.01,0.14
+9360,Freddi Fish: ABC under the sea,Misc,Atari,0.13,0.0,0.0,0.01,0.13
+9384,Monster Rancher DS,Role-Playing,Tecmo Koei,0.08,0.0,0.05,0.01,0.13
+9468,Sally's Salon,Simulation,Capcom,0.12,0.0,0.0,0.01,0.13
+9545,Backyard Baseball '09,Sports,Atari,0.12,0.0,0.0,0.01,0.13
+9561,Space Bust-A-Move,Puzzle,Square Enix,0.1,0.02,0.0,0.01,0.13
+9599,Avatar: The Last Airbender - Into the Inferno,Adventure,THQ,0.11,0.01,0.0,0.01,0.13
+9618,Garfield's Fun Fest,Platform,Zoo Digital Publishing,0.07,0.04,0.0,0.01,0.13
+9624,Zenses: Ocean,Puzzle,Game Factory,0.11,0.01,0.0,0.01,0.13
+9628,Left Brain Right Brain 2,Misc,Majesco Entertainment,0.12,0.0,0.0,0.01,0.13
+9643,Dragon Ball: Origins,Action,Atari,0.09,0.03,0.0,0.01,0.13
+9720,DS Yamamura Misa Suspense: Maiko Kogiku - Kisha Katherine - Sougiya Isa Akashi - Koto ni Maru Hana Sanrin: Kyoto Satujin Jinken File,Adventure,Tecmo Koei,0.0,0.0,0.12,0.0,0.12
+9734,M&M's Kart Racing,Racing,Zoo Digital Publishing,0.11,0.0,0.0,0.01,0.12
+9750,Major League Baseball 2K8 Fantasy All-Stars,Sports,Take-Two Interactive,0.11,0.0,0.0,0.01,0.12
+9791,My Chinese Coach,Misc,Ubisoft,0.11,0.01,0.0,0.01,0.12
+9814,My Farm Around the World,Simulation,Atari,0.11,0.0,0.0,0.01,0.12
+9816,Zubo,Misc,Electronic Arts,0.09,0.03,0.0,0.01,0.12
+9827,Zenses: Rainforest,Puzzle,Game Factory,0.1,0.01,0.0,0.01,0.12
+9859,Rubik's World,Puzzle,Game Factory,0.1,0.01,0.0,0.01,0.12
+9876,Tecmo Bowl: Kickoff,Sports,Tecmo Koei,0.11,0.0,0.0,0.01,0.12
+9919,USA Today Crossword Challenge,Puzzle,Destineer,0.11,0.0,0.0,0.01,0.12
+9975,Yattaman DS: BikkuriDokkiri Daisakusen da Koron,Action,Takara Tomy,0.0,0.0,0.12,0.0,0.12
+9997,Army Men: Soldiers of Misfortune,Shooter,Zoo Games,0.11,0.0,0.0,0.01,0.12
+9999,Mystery P.I. - Portrait of a Thief,Adventure,Unknown,0.11,0.0,0.0,0.01,0.11
+10017,Mechanic Master,Puzzle,Midway Games,0.1,0.0,0.0,0.01,0.11
+10032,Brain Quest: Grades 5 & 6,Misc,Electronic Arts,0.11,0.0,0.0,0.01,0.11
+10064,My SAT Coach with The Princeton Review,Misc,Ubisoft,0.1,0.0,0.0,0.01,0.11
+10148,Tokimeki Memorial: Girl's Side 2nd Season,Adventure,Konami Digital Entertainment,0.0,0.0,0.11,0.0,0.11
+10185,Naruto Shippuden: Naruto vs. Sasuke,Action,Takara Tomy,0.08,0.0,0.03,0.01,0.11
+10203,Soma Bringer,Role-Playing,Nintendo,0.0,0.0,0.11,0.0,0.11
+10211,Trauma Center: Under the Knife 2,Simulation,Atlus,0.1,0.0,0.0,0.01,0.11
+10269,Mushroom Men: Rise of the Fungi,Action,SouthPeak Games,0.1,0.0,0.0,0.01,0.11
+10336,My Boyfriend,Simulation,DTP Entertainment,0.1,0.0,0.0,0.01,0.11
+10368,Rock Revolution,Misc,Konami Digital Entertainment,0.1,0.0,0.0,0.01,0.11
+10427,Princess Debut,Misc,Cave,0.1,0.0,0.0,0.01,0.1
+10459,Exit DS,Puzzle,Square Enix,0.09,0.0,0.01,0.01,0.1
+10480,Corvette Evolution GT,Racing,Black Bean Games,0.1,0.0,0.0,0.01,0.1
+10520,America's Next Top Model,Action,Eidos Interactive,0.1,0.0,0.0,0.01,0.1
+10524,Culdcept DS,Strategy,Sega,0.0,0.0,0.1,0.0,0.1
+10538,Football Director DS,Sports,Pinnacle,0.0,0.1,0.0,0.0,0.1
+10613,Spider-Man: Web of Shadows,Action,Activision,0.09,0.0,0.0,0.01,0.1
+10650,Cate West: The Vanishing Files,Adventure,Oxygen Interactive,0.08,0.01,0.0,0.01,0.1
+10719,Horse Life Adventures,Simulation,Deep Silver,0.08,0.01,0.0,0.01,0.1
+10725,Higurashi no Nakukoru ni Kizuna: Dai-Ni-Kan - Sou,Adventure,Alchemist,0.0,0.0,0.1,0.0,0.1
+10731,Championship Pony,Simulation,"Destination Software, Inc",0.09,0.0,0.0,0.01,0.1
+10761,Ninja Reflex,Action,Electronic Arts,0.09,0.0,0.0,0.01,0.1
+10763,Red Bull BC One,Misc,Playlogic Game Factory,0.09,0.0,0.0,0.01,0.1
+10784,Touch Mechanic,Simulation,Nintendo,0.09,0.0,0.0,0.01,0.1
+10802,Populous DS,Strategy,Rising Star Games,0.07,0.0,0.02,0.01,0.1
+10856,FIFA Street 3,Sports,Electronic Arts,0.07,0.02,0.0,0.01,0.09
+10872,Wordmaster,Strategy,Zoo Digital Publishing,0.09,0.0,0.0,0.01,0.09
+10946,Tom Clancy's EndWar,Strategy,Ubisoft,0.08,0.01,0.0,0.01,0.09
+10962,Lock's Quest,Strategy,THQ,0.08,0.0,0.0,0.01,0.09
+11013,Pipe Mania,Puzzle,Empire Interactive,0.08,0.01,0.0,0.01,0.09
+11024,Doraemon: Nobita to Midori no Kyojinden DS,Platform,Sega,0.0,0.0,0.09,0.0,0.09
+11028,Spectral Force Genesis,Role-Playing,Nobilis,0.08,0.0,0.01,0.01,0.09
+11031,World Championship Games: A Track & Field Event,Sports,Ghostlight,0.08,0.0,0.0,0.01,0.09
+11111,The Mummy: Tomb of the Dragon Emperor,Action,Vivendi Games,0.08,0.0,0.0,0.01,0.09
+11130,Knights in the Nightmare,Role-Playing,Sting,0.06,0.0,0.02,0.0,0.09
+11159,My Stop Smoking Coach: Allen Carr's EasyWay,Misc,Ubisoft,0.07,0.01,0.0,0.01,0.09
+11177,Bella Sara,Misc,Codemasters,0.04,0.03,0.0,0.01,0.09
+11183,Brain Voyage,Puzzle,Eidos Interactive,0.06,0.02,0.0,0.01,0.09
+11198,My Make-Up,Misc,Oxygen Interactive,0.08,0.0,0.0,0.01,0.09
+11207,Midnight Play! Pack,Misc,Ubisoft,0.08,0.0,0.0,0.01,0.09
+11212,L: the proLogue to DEATH NOTE - Rasen no Wana,Adventure,Konami Digital Entertainment,0.0,0.0,0.09,0.0,0.09
+11233,1 vs. 100,Misc,DSI Games,0.08,0.0,0.0,0.01,0.09
+11262,Ultimate Card Games DS,Strategy,Telegames,0.08,0.0,0.0,0.01,0.08
+11295,The Spiderwick Chronicles,Action,Vivendi Games,0.08,0.0,0.0,0.01,0.08
+11305,Elebits: The Adventures of Kai and Zero,Adventure,Konami Digital Entertainment,0.07,0.0,0.0,0.01,0.08
+11315,Kidou Senshi Gundam 00,Action,Namco Bandai Games,0.0,0.0,0.08,0.0,0.08
+11335,Miami Nights: Singles in the City,Simulation,Ubisoft,0.08,0.0,0.0,0.01,0.08
+11392,Super Robot Taisen OG Saga: Endless Frontier,Role-Playing,Namco Bandai Games,0.08,0.0,0.0,0.01,0.08
+11415,"Hisshou Pachinko*Pachi-Slot Kouryaku Series DS Vol. 2: Shinseiki Evangelion - Shito, Futatabi",Misc,D3Publisher,0.0,0.0,0.08,0.0,0.08
+11446,Bangai-O Spirits,Shooter,D3Publisher,0.07,0.0,0.0,0.01,0.08
+11469,TrackMania DS,Racing,Focus Home Interactive,0.06,0.01,0.0,0.01,0.08
+11472,Prey the Stars,Action,Tecmo Koei,0.07,0.0,0.0,0.01,0.08
+11488,Line Rider 2: Unbound,Puzzle,Deep Silver,0.07,0.0,0.0,0.01,0.08
+11497,Soul Bubbles,Puzzle,Eidos Interactive,0.05,0.02,0.0,0.01,0.08
+11541,Code Lyoko: Fall of X.A.N.A.,Adventure,Game Factory,0.07,0.0,0.0,0.01,0.08
+11548,Wordfish,Puzzle,Ubisoft,0.07,0.0,0.0,0.01,0.08
+11551,futureU: The Prep Game for SAT,Misc,Aspyr,0.07,0.0,0.0,0.01,0.08
+11562,New International Track & Field,Sports,Konami Digital Entertainment,0.07,0.0,0.0,0.01,0.08
+11603,Mission Runway,Simulation,Eidos Interactive,0.07,0.01,0.0,0.01,0.08
+11614,Nanashi no Game,Adventure,Square Enix,0.0,0.0,0.08,0.0,0.08
+11619,Backyard NFL Football '09,Sports,Atari,0.07,0.0,0.0,0.01,0.08
+11662,Katekyoo Hitman Reborn! DS: Flame Rumble Hyper - Moeyo Mirai,Fighting,Takara Tomy,0.0,0.0,0.08,0.0,0.08
+11676,Tokyo Beat Down,Action,Success,0.07,0.0,0.0,0.01,0.08
+11681,The Legend of Kage 2,Action,Square Enix,0.07,0.0,0.0,0.0,0.08
+11728,My Fun Facts Coach,Misc,Ubisoft,0.07,0.0,0.0,0.01,0.08
+11792,Margot's Word Brain,Puzzle,Zoo Games,0.07,0.0,0.0,0.01,0.07
+11821,Sigma Harmonics,Role-Playing,Square Enix,0.0,0.0,0.07,0.0,0.07
+11824,Summon Night,Role-Playing,Banpresto,0.0,0.0,0.07,0.0,0.07
+11857,Digimon World Championship,Role-Playing,Namco Bandai Games,0.0,0.0,0.07,0.0,0.07
+11864,Let's Ride! Friends Forever,Adventure,THQ,0.07,0.0,0.0,0.0,0.07
+11896,Robocalypse,Strategy,Tecmo Koei,0.07,0.0,0.0,0.0,0.07
+11910,"Flower, Sun, and Rain",Adventure,Rising Star Games,0.07,0.0,0.0,0.01,0.07
+11936,Homie Rollerz,Racing,Destineer,0.07,0.0,0.0,0.01,0.07
+11941,Fantasy Aquarium by DS,Simulation,Mercury Games,0.07,0.0,0.0,0.01,0.07
+12025,Higurashi no Nakukoru ni Kizuna: Dai-Ichi-Kan - Tatari,Adventure,Alchemist,0.0,0.0,0.07,0.0,0.07
+12027,AMF Bowling Pinbusters!,Sports,Vir2L Studios,0.06,0.0,0.0,0.0,0.07
+12033,Jake Power: Handyman,Adventure,Ubisoft,0.06,0.0,0.0,0.0,0.07
+12034,My Dress-Up,Misc,Oxygen Interactive,0.06,0.01,0.0,0.01,0.07
+12058,San Goku Shi Taisen Ten,Strategy,Sega,0.0,0.0,0.07,0.0,0.07
+12066,My Horse & Me: Riding for Gold,Sports,Atari,0.05,0.01,0.0,0.01,0.07
+12076,Jackass the Game DS,Action,Empire Interactive,0.06,0.0,0.0,0.01,0.07
+12098,DS Nishimura Kyotaro Suspense 2 Shin Tantei Series: Kanazawa Hakodate - Gokkan no Kyoukoku - Fukushuu no Kage,Adventure,Tecmo Koei,0.0,0.0,0.07,0.0,0.07
+12123,Katekyoo Hitman Reborn! DS: Fate of Heat - Hono no Unmei,Role-Playing,Takara Tomy,0.0,0.0,0.07,0.0,0.07
+12133,Tropix,Puzzle,Capcom,0.06,0.0,0.0,0.0,0.07
+12142,The Tale of Despereaux,Platform,Brash Entertainment,0.06,0.0,0.0,0.0,0.07
+12153,Imagine: Gymnast,Simulation,Ubisoft,0.05,0.01,0.0,0.0,0.07
+12161,Prince of Persia: The Fallen King,Action,Ubisoft,0.06,0.01,0.0,0.01,0.07
+12187,Brain Quest: Grades 3 & 4,Misc,Electronic Arts,0.06,0.0,0.0,0.01,0.07
+12223,Insecticide,Action,Gamecock,0.06,0.0,0.0,0.0,0.07
+12277,My Pet Shop,Simulation,Square Enix,0.06,0.0,0.0,0.0,0.06
+12297,Smart Boy's Toys Club,Misc,505 Games,0.06,0.0,0.0,0.0,0.06
+12302,Akagawa Jirou Mystery: Yasoukyoku - Hon ni Manekareta Satsujin,Adventure,Marvelous Interactive,0.0,0.0,0.06,0.0,0.06
+12339,Chou Gekijouban Keroro Gunsou 3: Tenkuu Daibouken de Arimasu!,Action,Namco Bandai Games,0.0,0.0,0.06,0.0,0.06
+12358,Kuukan * Zukei: Hirameki Training - KuuTore,Misc,Benesse,0.0,0.0,0.06,0.0,0.06
+12369,From The Abyss,Role-Playing,Nobilis,0.06,0.0,0.0,0.0,0.06
+12378,Di-Gata Defenders,Role-Playing,Game Factory,0.06,0.0,0.0,0.0,0.06
+12469,Kirarin * Revolution: Minna de Odorou Furi Furi Debut!,Simulation,Konami Digital Entertainment,0.0,0.0,0.06,0.0,0.06
+12480,Winter Sports 2: The Next Challenge,Sports,RTL,0.04,0.02,0.0,0.01,0.06
+12485,DropCast,Puzzle,THQ,0.06,0.0,0.0,0.0,0.06
+12488,Summon Night 2,Role-Playing,Namco Bandai Games,0.0,0.0,0.06,0.0,0.06
+12534,Rock Blast,Puzzle,UFO Interactive,0.06,0.0,0.0,0.0,0.06
+12544,Little League World Series Baseball 2008,Sports,Activision,0.06,0.0,0.0,0.0,0.06
+12556,Theresia...,Adventure,Arc System Works,0.06,0.0,0.0,0.0,0.06
+12557,Pop Cutie! Street Fashion Simulation,Simulation,Tecmo Koei,0.06,0.0,0.0,0.0,0.06
+12622,Winx Club: Mission Enchantix,Adventure,Konami Digital Entertainment,0.03,0.02,0.0,0.0,0.06
+12629,Gegege no Kitarou: Youkai Daigekisen,Action,Namco Bandai Games,0.0,0.0,0.06,0.0,0.06
+12630,Emblem of Gundam,Strategy,Namco Bandai Games,0.0,0.0,0.06,0.0,0.06
+12665,Cid to Chocobo no Fushigi na Dungeon: Toki Wasure no Meikyuu DS+,Role-Playing,Square Enix,0.0,0.0,0.06,0.0,0.06
+12677,MLB Power Pros 2008,Sports,Take-Two Interactive,0.05,0.0,0.0,0.0,0.06
+12678,Real Soccer 2009,Sports,Ubisoft,0.05,0.0,0.0,0.0,0.06
+12693,Aquarium by DS,Simulation,Mercury Games,0.05,0.0,0.0,0.0,0.06
+12717,Rhapsody: A Musical Adventure,Role-Playing,Nippon Ichi Software,0.05,0.0,0.0,0.0,0.06
+12791,Mame Goma 2: Uchi no Ko ga Ichiban!,Simulation,Creative Core,0.0,0.0,0.06,0.0,0.06
+12799,Space Chimps,Platform,Brash Entertainment,0.05,0.0,0.0,0.0,0.06
+12835,Drivers Ed Portable,Misc,JoWood Productions,0.05,0.0,0.0,0.0,0.05
+12840,Unsolved Crimes,Adventure,Empire Interactive,0.04,0.01,0.0,0.0,0.05
+12849,Princess on Ice,Sports,505 Games,0.04,0.01,0.0,0.0,0.05
+12854,Front Mission 2089: Border of Madness,Strategy,Square Enix,0.0,0.0,0.05,0.0,0.05
+12860,Mister Slime,Action,SouthPeak Games,0.05,0.0,0.0,0.0,0.05
+12892,Jake Power: Policeman,Adventure,Ubisoft,0.05,0.0,0.0,0.0,0.05
+12975,Zoo Quest: Puzzle Fun!,Puzzle,JoWood Productions,0.05,0.0,0.0,0.0,0.05
+12981,Dreamer Series: Puppy Trainer,Simulation,DreamCatcher Interactive,0.05,0.0,0.0,0.0,0.05
+12985,Pony Friends: Mini Breeds Edition,Simulation,Eidos Interactive,0.05,0.0,0.0,0.0,0.05
+12996,Dokapon Journey,Role-Playing,Sting,0.05,0.0,0.0,0.0,0.05
+13017,Dramatic Dungeon: Sakura Wars - Kimi Arugatame,Role-Playing,Sega,0.0,0.0,0.05,0.0,0.05
+13021,Nanostray 2,Shooter,Codemasters,0.03,0.01,0.0,0.0,0.05
+13055,Secret Files: Tunguska,Adventure,Deep Silver,0.04,0.01,0.0,0.0,0.05
+13101,Suzuki Super-Bikes II: Riding Challenge,Racing,Valcon Games,0.05,0.0,0.0,0.0,0.05
+13138,George of the Jungle and the Search for the Secret,Platform,Ignition Entertainment,0.05,0.0,0.0,0.0,0.05
+13155,Assassin's Creed: Altair's Chronicles,Platform,Ubisoft,0.03,0.01,0.0,0.0,0.05
+13175,Smart Kid's Party Fun Pak,Misc,UFO Interactive,0.05,0.0,0.0,0.0,0.05
+13186,Monster Band,Misc,Tivola,0.04,0.0,0.0,0.0,0.05
+13189,Fushigi? Kagaku: Nazotoki Quiz Training - NazoTore,Misc,Benesse,0.0,0.0,0.05,0.0,0.05
+13195,Houkago Shounen,Misc,Konami Digital Entertainment,0.0,0.0,0.05,0.0,0.05
+13205,Harukanaru Toki no Naka de: Yumenoukihashi,Adventure,Tecmo Koei,0.0,0.0,0.05,0.0,0.05
+13208,Spitfire Heroes: Tales of the Royal Air Force,Simulation,Destineer,0.05,0.0,0.0,0.0,0.05
+13241,Katekyoo Hitman Reborn! DS: Bongole Shiki Taisen Battle Sugoroku,Misc,Takara Tomy,0.0,0.0,0.05,0.0,0.05
+13285,Shugo Chara! 3-tsu no Tamagoto Koisuru Joker,Action,Konami Digital Entertainment,0.0,0.0,0.05,0.0,0.05
+13291,Cesar Millan's Dog Whisperer,Simulation,Ubisoft,0.04,0.0,0.0,0.0,0.05
+13296,M&M's Adventure,Adventure,Zoo Digital Publishing,0.04,0.0,0.0,0.0,0.05
+13298,Soul Eater: Plot of Medusa,Action,Namco Bandai Games,0.0,0.0,0.05,0.0,0.05
+13305,Color Cross,Misc,Rising Star Games,0.04,0.0,0.0,0.0,0.05
+13311,The Dark Spire,Role-Playing,Success,0.04,0.0,0.0,0.0,0.05
+13344,Chocobo to Mahou no Ehon: Majo to Shoujo to 5-Jin no Yuusha,Role-Playing,Square Enix,0.0,0.0,0.05,0.0,0.05
+13355,Shaun the Sheep,Adventure,D3Publisher,0.04,0.0,0.0,0.0,0.05
+13387,Professor Heinz Wolff's Gravity,Puzzle,Deep Silver,0.04,0.0,0.0,0.0,0.05
+13395,Lux-Pain,Adventure,Rising Star Games,0.04,0.0,0.0,0.0,0.05
+13400,Hiiro no Kakera DS,Adventure,Idea Factory,0.0,0.0,0.05,0.0,0.05
+13431,Looney Tunes: Cartoon Conductor,Misc,Eidos Interactive,0.04,0.0,0.0,0.0,0.05
+13457,National Geographic Panda (US sales),Simulation,Ubisoft,0.04,0.0,0.0,0.0,0.04
+13465,Phoenix Wright: Revived Turnabout,Misc,Capcom,0.0,0.0,0.04,0.0,0.04
+13493,Sekai no Gohan Shaberu! DS Oryouri Navi,Misc,Nintendo,0.0,0.0,0.04,0.0,0.04
+13497,Candace Kane's Candy Factory,Action,Destineer,0.04,0.0,0.0,0.0,0.04
+13524,Hanayori Danshi: Koi Seyo Onago,Adventure,Konami Digital Entertainment,0.0,0.0,0.04,0.0,0.04
+13566,Naruto Shippuden: Dairansen! Kage Bunshin Emaki,Action,Takara Tomy,0.0,0.0,0.04,0.0,0.04
+13569,Twilight Syndrome: Kinjiratera Toshi Densetsu,Adventure,Spike,0.0,0.0,0.04,0.0,0.04
+13596,Igor: The Game,Adventure,Legacy Interactive,0.04,0.0,0.0,0.0,0.04
+13661,Mazes of Fate DS,Role-Playing,Graffiti,0.04,0.0,0.0,0.0,0.04
+13662,Code Geass: Hangyaku no Lelouch R2 - Banjou no Geass Gekijou,Misc,Namco Bandai Games,0.0,0.0,0.04,0.0,0.04
+13676,System 3 presents Ferrari Challenge Trofeo Pirelli,Racing,System 3 Arcade Software,0.03,0.01,0.0,0.0,0.04
+13681,Hayate no Gotoku! Ojousama Produce Daisakusen Boku Iro ni Somare! Gakkou-Hen,Simulation,Konami Digital Entertainment,0.0,0.0,0.04,0.0,0.04
+13769,Motto TOEIC Test DS Training,Misc,IE Institute,0.0,0.0,0.04,0.0,0.04
+13815,99 no Namida,Adventure,Namco Bandai Games,0.0,0.0,0.04,0.0,0.04
+13819,Ookami to Koushinryou: Boku to Horo no Ichinen,Adventure,ASCII Media Works,0.0,0.0,0.04,0.0,0.04
+13944,Little Red Riding Hood's Zombie BBQ,Shooter,Destineer,0.03,0.0,0.0,0.0,0.04
+13953,Teenage Zombies: Invasion of the Alien Brain Thingys,Adventure,Ignition Entertainment,0.03,0.0,0.0,0.0,0.04
+13959,GoPets: Vacation Island,Simulation,Konami Digital Entertainment,0.03,0.0,0.0,0.0,0.04
+14001,"Minna de Jibun no Setsumeisho: B-Kata, A-Kata, AB-Kata, O-Kata",Misc,GungHo,0.0,0.0,0.04,0.0,0.04
+14044,Bratz Kidz,Misc,Game Factory,0.03,0.0,0.0,0.0,0.04
+14063,Pirates: Duels on the High Seas,Action,Oxygen Interactive,0.03,0.0,0.0,0.0,0.04
+14070,Crazy Machines,Puzzle,DTP Entertainment,0.0,0.03,0.0,0.0,0.04
+14072,"My World, My Way (US sales)",Role-Playing,Global A Entertainment,0.04,0.0,0.0,0.0,0.04
+14113,Travel Coach: Europe 1,Misc,HMH Interactive,0.0,0.03,0.0,0.0,0.03
+14129,Tokyo Majin Gakuen: Kenfuuchou,Adventure,Marvelous Interactive,0.0,0.0,0.03,0.0,0.03
+14142,Clever Kids: Pirates,Misc,Midas Interactive Entertainment,0.0,0.03,0.0,0.0,0.03
+14169,Zoo Vet: Endangered Animals,Simulation,505 Games,0.03,0.0,0.0,0.0,0.03
+14191,Hayate no Gotoku! Ojousama Produce Daisakusen Boku Iro ni Somare! Oyashiki-Hen,Simulation,Konami Digital Entertainment,0.0,0.0,0.03,0.0,0.03
+14209,Crazy Chicken: Star Karts,Racing,Phenomedia,0.03,0.0,0.0,0.0,0.03
+14211,Super Dodgeball Brawlers (jp sales),Sports,Arc System Works,0.0,0.0,0.03,0.0,0.03
+14224,Shining Stars,Action,"Destination Software, Inc",0.03,0.0,0.0,0.0,0.03
+14235,Emma at the Farm,Adventure,Aspyr,0.03,0.0,0.0,0.0,0.03
+14297,Custom Beat Battle: Draglade 2,Fighting,Namco Bandai Games,0.0,0.0,0.03,0.0,0.03
+14303,Toy Shop,Simulation,Majesco Entertainment,0.03,0.0,0.0,0.0,0.03
+14307,Vitamin X Evolution,Adventure,D3Publisher,0.0,0.0,0.03,0.0,0.03
+14325,Smart Girl's Winter Wonderland,Misc,UFO Interactive,0.03,0.0,0.0,0.0,0.03
+14342,My Pet Shop (JP sales),Simulation,Square Enix,0.0,0.0,0.03,0.0,0.03
+14356,Montessori Music,Misc,Oxygen Interactive,0.01,0.02,0.0,0.0,0.03
+14381,To LoveRu Trouble: Waku Waku! Rinkangakkou-Hen,Adventure,Marvelous Interactive,0.0,0.0,0.03,0.0,0.03
+14383,Doodle Hex,Puzzle,Pinnacle,0.0,0.03,0.0,0.0,0.03
+14421,Away: Shuffle Dungeon,Role-Playing,Majesco Entertainment,0.02,0.0,0.0,0.0,0.03
+14425,Kekkaishi: Kokubourou Shuurai,Action,Namco Bandai Games,0.0,0.0,0.03,0.0,0.03
+14426,Shugo Chara! Amunonijiro Chara Change,Action,Konami Digital Entertainment,0.0,0.0,0.03,0.0,0.03
+14431,Tantei Jinguuji Saburo DS: Kienai Kokoro,Adventure,Arc System Works,0.0,0.0,0.03,0.0,0.03
+14459,DokiDoki Majo Shinpan! 2,Adventure,SNK Playmore,0.0,0.0,0.03,0.0,0.03
+14492,Lux-Pain (JP sales),Adventure,Rising Star Games,0.0,0.0,0.03,0.0,0.03
+14573,Kung Fu Panda: Legendary Warriors,Action,Activision,0.02,0.0,0.0,0.0,0.03
+14587,Dream Pinball 3D,Misc,SouthPeak Games,0.03,0.0,0.0,0.0,0.03
+14596,Saihai no Yukue,Strategy,Tecmo Koei,0.0,0.0,0.03,0.0,0.03
+14637,Merv Griffin's Crosswords,Puzzle,ValuSoft,0.03,0.0,0.0,0.0,0.03
+14680,Nobunaga no Yabou DS 2,Strategy,Tecmo Koei,0.0,0.0,0.03,0.0,0.03
+14687,Safari Adventures: Africa,Adventure,Neko Entertainment,0.03,0.0,0.0,0.0,0.03
+14706,Moto Racer DS,Racing,Nobilis,0.0,0.02,0.0,0.0,0.03
+14808,Galileo,Adventure,D3Publisher,0.0,0.0,0.03,0.0,0.03
+14834,Ducati Moto,Racing,Vir2L Studios,0.02,0.0,0.0,0.0,0.03
+14836,Pop Cutie! Street Fashion Simulation (JP sales),Simulation,Tecmo Koei,0.0,0.0,0.03,0.0,0.03
+14856,Hokuto no Ken: Hokuto Shinken Denshousha no Michi,Action,Spike,0.0,0.0,0.03,0.0,0.03
+14900,Hisshou Pachinko*Pachi-slot Kouryaku Series DS Vol. 3: Shinseiki Evangelion - Yakusoku no Toki,Misc,D3Publisher,0.0,0.0,0.03,0.0,0.03
+14903,Shinseiki Evangelion Ayanami Ikusei Keikaku DS with Asuka Hokan Keikaku,Simulation,Broccoli,0.0,0.0,0.03,0.0,0.03
+14938,Yes! Precure 5 Go Go Zenin Shu Go! Dream Festival,Action,Namco Bandai Games,0.0,0.0,0.02,0.0,0.02
+14972,Pony Luv,Simulation,GSP,0.02,0.0,0.0,0.0,0.02
+14987,"Hisshou Pachinko*Pachi-Slot Kouryaku Series DS Vol. 1: Shinseiki Evangelion - Magokoro o, Kimi ni",Misc,D3Publisher,0.0,0.0,0.02,0.0,0.02
+15040,Major Dream: Major DS Dream Baseball,Sports,Takara Tomy,0.0,0.0,0.02,0.0,0.02
+15198,Akai Ito DS,Adventure,Alchemist,0.0,0.0,0.02,0.0,0.02
+15216,Casper's Scare School: Classroom Capers,Adventure,Blast! Entertainment Ltd,0.02,0.0,0.0,0.0,0.02
+15224,Tennis no Oji-Sama: Driving Smash! Side King,Sports,Konami Digital Entertainment,0.0,0.0,0.02,0.0,0.02
+15244,Maji de Manabu: LEC de Ukaru - DS Hishou Boki 3-Kyuu,Misc,Square Enix,0.0,0.0,0.02,0.0,0.02
+15283,Motto Hayaku! Seikaku Ni! Suu Sense Keisan Ryuoku Up Training - SuuTore,Misc,Benesse,0.0,0.0,0.02,0.0,0.02
+15285,Jake Hunter: Detective Chronicles,Adventure,Aksys Games,0.02,0.0,0.0,0.0,0.02
+15330,Commando: Steel Disaster,Shooter,Lexicon Entertainment,0.02,0.0,0.0,0.0,0.02
+15363,Polar Bowler,Sports,Mumbo Jumbo,0.02,0.0,0.0,0.0,0.02
+15371,Meitantei Conan: Kieta Hakase to Machigai Sagashi no Tou,Adventure,Namco Bandai Games,0.0,0.0,0.02,0.0,0.02
+15399,Mushishi: Amefuru Sato,Simulation,Marvelous Interactive,0.0,0.0,0.02,0.0,0.02
+15429,Defendin' De Penguin,Strategy,Zushi Games,0.02,0.0,0.0,0.0,0.02
+15492,Mary King's Riding School,Simulation,Ghostlight,0.0,0.02,0.0,0.0,0.02
+15504,Dreamer Series: Horse Trainer,Simulation,DreamCatcher Interactive,0.02,0.0,0.0,0.0,0.02
+15521,Chrysler Classic Racing,Racing,Zoo Games,0.02,0.0,0.0,0.0,0.02
+15586,Bomberman 2,Puzzle,Hudson Soft,0.0,0.01,0.0,0.0,0.02
+15659,Barnyard Blast: Swine of the Night,Platform,Big Ben Interactive,0.02,0.0,0.0,0.0,0.02
+15668,Moe Star: Moeru Toudai Eigojuku,Misc,Mirai Shounen,0.0,0.0,0.02,0.0,0.02
+15693,Ketsui Death Label,Shooter,Arika,0.0,0.0,0.02,0.0,0.02
+15740,Otometeki Koi Kakumei * Love Revo!! DS,Adventure,GungHo,0.0,0.0,0.02,0.0,0.02
+15765,Uchi no 3 Shimai DS,Misc,Culture Brain,0.0,0.0,0.02,0.0,0.02
+15793,Chou!! Super Nep League DS,Sports,Jaleco,0.0,0.0,0.02,0.0,0.02
+15830,Oshiri Kajiri Mushi no Rhythm Lesson DS: Kawai Ongaku Kyoushitsu Kanshuu,Misc,Sega,0.0,0.0,0.02,0.0,0.02
+15937,Katekyoo Hitman Reborn! DS: Mafia Daishuugou Bongole Festival,Action,Takara Tomy,0.0,0.0,0.02,0.0,0.02
+15940,Oyaku de Asoberu DS Ehon: Ukkari Penelope,Simulation,Tecmo Koei,0.0,0.0,0.02,0.0,0.02
+15960,Simple DS Series Vol. 42: The Haioku Byoutou,Adventure,D3Publisher,0.0,0.0,0.02,0.0,0.02
+15969,Yume Neko DS,Simulation,Sega,0.0,0.0,0.02,0.0,0.02
+15988,Hotel Giant DS,Simulation,Nobilis,0.0,0.01,0.0,0.0,0.01
+16004,Diary Girl,Misc,Konami Digital Entertainment,0.01,0.0,0.0,0.0,0.01
+16012,Kimi no Yuusha,Role-Playing,SNK Playmore,0.0,0.0,0.01,0.0,0.01
+16019,Cosmetic Paradise: Make no Kiseki,Misc,Global A Entertainment,0.0,0.0,0.01,0.0,0.01
+16033,My Little Baby,Simulation,CDV Software Entertainment,0.0,0.01,0.0,0.0,0.01
+16079,Fab 5 Soccer,Sports,Destineer,0.01,0.0,0.0,0.0,0.01
+16081,Best Of Tests,Puzzle,Conspiracy Entertainment,0.01,0.0,0.0,0.0,0.01
+16097,Bakumatsu Koihana: Shinsengumi DS,Adventure,D3Publisher,0.0,0.0,0.01,0.0,0.01
+16133,Dr. Slump & Arale-Chan,Adventure,Namco Bandai Games,0.0,0.0,0.01,0.0,0.01
+16137,Kikiite Hajimaru: Eigo Kaiwa Training - KikiTore,Misc,Benesse,0.0,0.0,0.01,0.0,0.01
+16150,Chokkan! Asonde Relaxuma,Action,Rocket Company,0.0,0.0,0.01,0.0,0.01
+16167,Rosario to Vampire: Tanabata no Miss Youkai Gakuen,Adventure,Capcom,0.0,0.0,0.01,0.0,0.01
+16179,San-X Character Channel: All-Star Daishuugou!,Action,MTO,0.0,0.0,0.01,0.0,0.01
+16209,Who Wants to be a Millionaire: 2nd Edition,Misc,Ubisoft,0.0,0.01,0.0,0.0,0.01
+16210,Duel Love: Koisuru Otome wa Shouri no Megami,Adventure,Namco Bandai Games,0.0,0.0,0.01,0.0,0.01
+16231,Double Sequence: The Q-Virus Invasion,Puzzle,Zoo Digital Publishing,0.01,0.0,0.0,0.0,0.01
+16262,Simple DS Series Vol. 41: The Bakudan Shori-Han,Action,D3Publisher,0.0,0.0,0.01,0.0,0.01
+16339,Nakayoshi All-Stars: Mezase Gakuen Idol,Misc,Creative Core,0.0,0.0,0.01,0.0,0.01
+16412,"Element Girl: Love, Fashion and Friends",Adventure,DTP Entertainment,0.0,0.01,0.0,0.0,0.01
+16460,Juggler DS,Misc,Commseed,0.0,0.0,0.01,0.0,0.01
+16466,Vitamin Y,Adventure,D3Publisher,0.0,0.0,0.01,0.0,0.01
+16487,Smart Boy's Winter Wonderland,Misc,UFO Interactive,0.01,0.0,0.0,0.0,0.01
+16517,National Geographic Panda (JP sales),Simulation,Ubisoft,0.0,0.0,0.01,0.0,0.01
+16518,Knights in the Nightmare: DHE Series Special Pack,Role-Playing,Sting,0.0,0.0,0.01,0.0,0.01
+16528,Blazer Drive,Role-Playing,Sega,0.0,0.0,0.01,0.0,0.01
+16530,Hoshizora no Comic Garden,Adventure,D3Publisher,0.0,0.0,0.01,0.0,0.01
+16591,Mega Brain Boost,Puzzle,Majesco Entertainment,0.01,0.0,0.0,0.0,0.01
+16595,Plushees,Simulation,Destineer,0.01,0.0,0.0,0.0,0.01

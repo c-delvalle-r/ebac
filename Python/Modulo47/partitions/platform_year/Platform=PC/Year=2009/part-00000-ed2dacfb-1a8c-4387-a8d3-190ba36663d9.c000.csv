@@ -1,0 +1,110 @@
+Rank,Name,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales
+84,The Sims 3,Simulation,Electronic Arts,0.98,6.42,0.0,0.71,8.11
+1884,Empire: Total War,Strategy,Sega,0.01,0.97,0.0,0.11,1.09
+2349,Call of Duty: Modern Warfare 2,Shooter,Activision,0.01,0.79,0.0,0.09,0.89
+3455,The Sims 3: World Adventures,Simulation,Electronic Arts,0.02,0.18,0.0,0.39,0.58
+3880,Dragon Age: Origins,Role-Playing,Electronic Arts,0.0,0.46,0.0,0.06,0.51
+4182,"Warhammer 40,000: Dawn of War II",Strategy,THQ,0.0,0.45,0.0,0.02,0.47
+4938,Dawn of Discovery,Simulation,Ubisoft,0.0,0.32,0.0,0.07,0.39
+5160,Left 4 Dead 2,Shooter,Valve Software,0.0,0.32,0.0,0.04,0.37
+5608,Batman: Arkham Asylum,Action,Eidos Interactive,0.0,0.27,0.0,0.05,0.32
+7728,Shutter Island,Adventure,Merscom LLC,0.0,0.17,0.0,0.03,0.2
+8035,Borderlands,Shooter,Take-Two Interactive,0.01,0.14,0.0,0.04,0.18
+8042,Company of Heroes: Anthology,Strategy,THQ,0.0,0.15,0.0,0.04,0.18
+8296,Age of Empires III: Complete Collection,Strategy,Microsoft Game Studios,0.01,0.12,0.0,0.03,0.17
+9048,ArmA II,Shooter,505 Games,0.0,0.12,0.0,0.03,0.14
+9110,Risen,Role-Playing,Deep Silver,0.0,0.11,0.0,0.03,0.14
+9638,The Stronghold Collection,Strategy,Take-Two Interactive,0.03,0.08,0.0,0.02,0.13
+10176,Machinarium,Adventure,Daedalic,0.0,0.09,0.0,0.02,0.11
+10360,The Book of Unwritten Tales,Adventure,HMH Interactive,0.0,0.08,0.0,0.02,0.11
+10464,The Whispered World,Adventure,Deep Silver,0.0,0.08,0.0,0.02,0.1
+10721,Burnout Paradise: The Ultimate Box,Racing,Electronic Arts,0.0,0.08,0.0,0.01,0.1
+11115,Crysis: Maximum Edition,Shooter,Electronic Arts,0.0,0.07,0.0,0.02,0.09
+11721,Divinity II: Ego Draconis,Role-Playing,DTP Entertainment,0.01,0.05,0.0,0.01,0.08
+11748,Torchlight,Role-Playing,JoWood Productions,0.0,0.06,0.0,0.02,0.07
+11919,F.E.A.R. 2: Project Origin,Shooter,Warner Bros. Interactive Entertainment,0.01,0.05,0.0,0.01,0.07
+11957,Football Manager 2010,Sports,Sega,0.0,0.06,0.0,0.01,0.07
+11993,Hearts of Iron III,Strategy,Paradox Interactive,0.01,0.04,0.0,0.01,0.07
+12096,Resident Evil 5,Action,Capcom,0.01,0.04,0.0,0.01,0.07
+12454,S.T.A.L.K.E.R.: Call of Pripyat,Shooter,Namco Bandai Games,0.0,0.05,0.0,0.01,0.06
+12542,Need for Speed: Shift,Racing,Electronic Arts,0.0,0.05,0.0,0.01,0.06
+12657,The Saboteur,Action,Electronic Arts,0.0,0.05,0.0,0.01,0.06
+12705,Mirror's Edge,Platform,Electronic Arts,0.0,0.05,0.0,0.01,0.06
+12825,4 Elements,Puzzle,Mastertronic,0.0,0.04,0.0,0.01,0.05
+12862,"Murder, She Wrote",Adventure,Focus Home Interactive,0.0,0.04,0.0,0.01,0.05
+12922,Venetica,Role-Playing,DTP Entertainment,0.0,0.04,0.0,0.01,0.05
+13034,Plants vs. Zombies,Strategy,PopCap Games,0.0,0.04,0.0,0.01,0.05
+13129,DiRT 2,Racing,Codemasters,0.0,0.04,0.0,0.01,0.05
+13183,Operation Flashpoint: Dragon Rising,Shooter,Codemasters,0.01,0.03,0.0,0.01,0.05
+13191,LEGO Indiana Jones 2: The Adventure Continues,Action,Activision,0.02,0.03,0.0,0.01,0.05
+13276,FIFA Soccer 10,Sports,Electronic Arts,0.0,0.04,0.0,0.01,0.05
+13376,Black Mirror 2,Adventure,DTP Entertainment,0.0,0.04,0.0,0.01,0.05
+13408,Wolfenstein,Shooter,Activision,0.01,0.03,0.0,0.01,0.05
+13430,Tropico 3,Strategy,Kalypso Media,0.0,0.04,0.0,0.01,0.05
+13432,Avatar: The Game,Action,Ubisoft,0.0,0.04,0.0,0.01,0.05
+13467,Runaway: A Twist of Fate,Adventure,Focus Home Interactive,0.0,0.04,0.0,0.01,0.04
+13485,Tom Clancy's HAWX,Action,Ubisoft,0.0,0.03,0.0,0.01,0.04
+13635,Company of Heroes: Tales of Valor,Strategy,THQ,0.0,0.03,0.0,0.01,0.04
+13666,Farm Frenzy 3,Strategy,Alawar Entertainment,0.0,0.03,0.0,0.01,0.04
+13684,Sonic PC Collection,Misc,Sega,0.0,0.04,0.0,0.01,0.04
+13852,Blood Bowl,Sports,Focus Home Interactive,0.01,0.02,0.0,0.01,0.04
+13906,Saints Row 2,Action,THQ,0.0,0.03,0.0,0.01,0.04
+13913,Secret Files 2: Puritas Cordis,Adventure,Deep Silver,0.0,0.03,0.0,0.01,0.04
+14030,World in Conflict: Complete Edition,Strategy,Ubisoft,0.0,0.03,0.0,0.01,0.04
+14207,Red Faction: Guerrilla,Shooter,THQ,0.0,0.03,0.0,0.01,0.03
+14214,RACE On,Racing,bitComposer Games,0.0,0.03,0.0,0.01,0.03
+14217,Overlord II,Action,Codemasters,0.0,0.03,0.0,0.01,0.03
+14222,Call of Juarez: Bound in Blood,Shooter,Ubisoft,0.0,0.03,0.0,0.01,0.03
+14256,Midnight Mysteries: The Edgar Allan Poe Conspiracy,Adventure,GSP,0.0,0.03,0.0,0.01,0.03
+14284,Guitar Hero: World Tour,Misc,Aspyr,0.0,0.03,0.0,0.01,0.03
+14302,Men of War,Strategy,505 Games,0.01,0.02,0.0,0.01,0.03
+14416,Harry Potter and the Half-Blood Prince,Action,Electronic Arts,0.0,0.03,0.0,0.01,0.03
+14424,Codename: Panzers Cold War,Strategy,Atari,0.0,0.02,0.0,0.01,0.03
+14450,Section 8,Shooter,SouthPeak Games,0.01,0.01,0.0,0.0,0.03
+14529,Braid,Platform,Number None,0.0,0.02,0.0,0.01,0.03
+14546,Royal Palace of White Sword and The City of Gentiles,Role-Playing,Take-Two Interactive,0.0,0.02,0.0,0.01,0.03
+14572,World of Zoo,Simulation,THQ,0.0,0.02,0.0,0.01,0.03
+14630,Monsters vs. Aliens,Action,Activision,0.01,0.01,0.0,0.0,0.03
+14755,Star Wars The Clone Wars: Republic Heroes,Action,LucasArts,0.0,0.02,0.0,0.0,0.03
+14857,The Lord of the Rings: Conquest,Action,Electronic Arts,0.0,0.02,0.0,0.0,0.03
+14872,Battlestations: Pacific,Strategy,Eidos Interactive,0.0,0.02,0.0,0.0,0.03
+14878,X-Men Origins: Wolverine - Uncaged Edition,Action,Activision,0.02,0.0,0.0,0.0,0.03
+14929,Ghost Pirates of Vooju Island,Adventure,DTP Entertainment,0.0,0.02,0.0,0.0,0.02
+14934,Tropico Reloaded,Strategy,Kalypso Media,0.0,0.02,0.0,0.0,0.02
+14976,Demigod,Strategy,Atari,0.0,0.02,0.0,0.0,0.02
+15049,Ceville,Action,Kalypso Media,0.0,0.02,0.0,0.0,0.02
+15090,Tom Clancy's EndWar,Strategy,Ubisoft,0.0,0.02,0.0,0.0,0.02
+15112,Grey's Anatomy: The Video Game,Adventure,Ubisoft,0.0,0.02,0.0,0.0,0.02
+15125,SAW,Action,Konami Digital Entertainment,0.0,0.02,0.0,0.0,0.02
+15130,Ice Age: Dawn of the Dinosaurs,Action,Activision,0.02,0.0,0.0,0.0,0.02
+15155,18 Wheels of Steel: Extreme Trucker,Racing,Rondomedia,0.0,0.02,0.0,0.0,0.02
+15193,Fuel,Racing,Codemasters,0.0,0.02,0.0,0.0,0.02
+15252,Order of War,Strategy,Square Enix,0.0,0.01,0.0,0.0,0.02
+15294,Stormrise,Strategy,Sega,0.0,0.02,0.0,0.0,0.02
+15312,War Leaders: Clash of Nations,Strategy,CDV Software Entertainment,0.0,0.02,0.0,0.0,0.02
+15444,Mini Ninjas,Action,Eidos Interactive,0.0,0.02,0.0,0.0,0.02
+15483,"Transformers: Revenge of the Fallen (XBox 360, PS3, & PC Versions)",Shooter,Activision,0.02,0.0,0.0,0.0,0.02
+15574,WorldShift,Strategy,Playlogic Game Factory,0.02,0.0,0.0,0.0,0.02
+15770,Still Life 2,Adventure,Rondomedia,0.0,0.01,0.0,0.0,0.02
+15839,The Dark Hills of Cherai,Puzzle,Unknown,0.0,0.01,0.0,0.0,0.02
+15851,Joint Operations: Combined Arms,Shooter,NovaLogic,0.01,0.0,0.0,0.0,0.02
+15858,Drakensang: The Dark Eye,Role-Playing,Eidos Interactive,0.01,0.0,0.0,0.0,0.02
+15872,Elven Legacy,Strategy,Paradox Interactive,0.01,0.0,0.0,0.0,0.02
+15877,Majesty 2: The Fantasy Kingdom Sim,Simulation,Paradox Interactive,0.01,0.0,0.0,0.0,0.02
+15998,Football Manager Live,Sports,Sega,0.0,0.01,0.0,0.0,0.01
+16028,The Last Remnant,Role-Playing,Square Enix,0.0,0.01,0.0,0.0,0.01
+16073,East India Company,Strategy,Paradox Interactive,0.01,0.0,0.0,0.0,0.01
+16118,Brain Exercise With Dr. Kawashima,Puzzle,Namco Bandai Games,0.0,0.01,0.0,0.0,0.01
+16163,Raven Squad: Operation Hidden Dagger,Shooter,Evolved Games,0.01,0.0,0.0,0.0,0.01
+16189,BattleForge,Strategy,Electronic Arts,0.0,0.01,0.0,0.0,0.01
+16261,Championship Manager 2010,Sports,Eidos Interactive,0.0,0.01,0.0,0.0,0.01
+16286,The Chronicles of Riddick: Assault on Dark Athena,Shooter,Vivendi Games,0.0,0.01,0.0,0.0,0.01
+16373,Gobliiins 4,Adventure,Kalypso Media,0.0,0.01,0.0,0.0,0.01
+16403,Pro Evolution Soccer 2010,Sports,Konami Digital Entertainment,0.0,0.01,0.0,0.0,0.01
+16452,King's Bounty: Armored Princess,Role-Playing,1C Company,0.0,0.01,0.0,0.0,0.01
+16482,Agatha Christie: Peril at End House,Adventure,JoWood Productions,0.0,0.01,0.0,0.0,0.01
+16512,Trine,Action,Nobilis,0.0,0.01,0.0,0.0,0.01
+16514,Pony Friends 2,Simulation,Eidos Interactive,0.0,0.01,0.0,0.0,0.01
+16542,Spore Galactic Adventures,Strategy,Electronic Arts,0.0,0.01,0.0,0.0,0.01
+16543,15 Days,Adventure,DTP Entertainment,0.0,0.01,0.0,0.0,0.01
+16580,Damnation,Shooter,Codemasters,0.0,0.01,0.0,0.0,0.01

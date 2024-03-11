@@ -1,0 +1,55 @@
+Rank,Name,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales
+847,Tom Clancy's The Division,Shooter,Ubisoft,1.2,0.62,0.0,0.18,2.01
+1226,FIFA 17,Sports,Electronic Arts,0.17,1.26,0.0,0.1,1.53
+2436,Far Cry: Primal,Action,Ubisoft,0.46,0.32,0.0,0.07,0.85
+2446,Overwatch,Shooter,Activision,0.52,0.25,0.0,0.08,0.85
+2507,Madden NFL 17,Sports,Electronic Arts,0.72,0.02,0.0,0.09,0.82
+2993,Doom (2016),Shooter,Bethesda Softworks,0.39,0.23,0.0,0.06,0.68
+3147,NBA 2K17,Sports,Take-Two Interactive,0.54,0.04,0.0,0.07,0.64
+3929,Quantum Break,Action,Microsoft Game Studios,0.27,0.19,0.01,0.04,0.51
+4432,Plants vs. Zombies: Garden Warfare 2,Shooter,Electronic Arts,0.26,0.15,0.0,0.04,0.44
+4822,EA Sports UFC 2,Sports,Electronic Arts,0.23,0.14,0.0,0.04,0.4
+5017,Forza Horizon 3,Racing,Microsoft Game Studios,0.15,0.2,0.0,0.03,0.38
+5270,Dark Souls III,Role-Playing,Namco Bandai Games,0.23,0.09,0.0,0.03,0.35
+5597,LEGO Marvel's Avengers,Action,Warner Bros. Interactive Entertainment,0.18,0.11,0.0,0.03,0.32
+6159,Naruto Shippuden: Ultimate Ninja Storm 4,Fighting,Namco Bandai Games,0.19,0.06,0.0,0.03,0.28
+6912,Lego Star Wars: The Force Awakens,Action,Warner Bros. Interactive Entertainment,0.12,0.1,0.0,0.02,0.24
+8753,NHL 17,Sports,Electronic Arts,0.13,0.01,0.0,0.02,0.15
+8862,Mirror's Edge Catalyst,Platform,Electronic Arts,0.08,0.05,0.0,0.02,0.15
+8949,Deus Ex: Mankind Divided,Role-Playing,Square Enix,0.08,0.06,0.0,0.01,0.15
+9648,Battleborn,Shooter,Take-Two Interactive,0.08,0.04,0.0,0.01,0.13
+9702,Homefront: The Revolution,Shooter,Deep Silver,0.05,0.07,0.0,0.01,0.12
+9713,Rocket League,Sports,505 Games,0.03,0.09,0.0,0.01,0.12
+10040,DiRT Rally,Racing,Codemasters,0.03,0.08,0.0,0.01,0.11
+10049,Life is Strange,Adventure,Square Enix,0.08,0.02,0.0,0.01,0.11
+10816,ReCore,Action,Microsoft Game Studios,0.06,0.03,0.0,0.01,0.1
+11142,F1 2016 (Codemasters),Racing,Codemasters,0.01,0.07,0.0,0.01,0.09
+11552,BioShock The Collection,Shooter,Take-Two Interactive,0.03,0.04,0.0,0.01,0.08
+11805,Resident Evil Zero,Action,Capcom,0.05,0.02,0.0,0.01,0.07
+12581,TrackMania Turbo,Action,Ubisoft,0.02,0.03,0.0,0.0,0.06
+13176,MXGP 2,Racing,Milestone S.r.l.,0.02,0.02,0.0,0.0,0.05
+13492,Dead Island Definitive Collection,Action,Deep Silver,0.02,0.02,0.0,0.0,0.04
+13531,R.B.I. Baseball 2016,Sports,MLB.com,0.04,0.0,0.0,0.0,0.04
+13652,7 Days to Die,Action,Telltale Games,0.02,0.02,0.0,0.0,0.04
+13765,One Piece: Burning Blood,Fighting,Namco Bandai Games,0.03,0.01,0.0,0.0,0.04
+13873,Song of the Deep,Action,Insomniac Games,0.03,0.0,0.0,0.0,0.04
+13952,Resident Evil 6,Shooter,Capcom,0.03,0.0,0.0,0.0,0.04
+13996,Destiny: The Collection,Shooter,Activision,0.01,0.02,0.0,0.0,0.04
+14188,Teenage Mutant Ninja Turtles: Mutants in Manhattan,Action,Activision,0.02,0.01,0.0,0.0,0.03
+14612,Attack on Titan (KOEI),Action,Tecmo Koei,0.01,0.01,0.0,0.0,0.03
+14741,Pro Evolution Soccer 2017,Sports,Konami Digital Entertainment,0.0,0.02,0.0,0.0,0.03
+14916,Ghostbusters (2016),Action,Activision,0.02,0.0,0.0,0.0,0.02
+15055,NASCAR Heat Evolution,Racing,Dusenberry Martin Racing,0.02,0.0,0.0,0.0,0.02
+15206,Valentino Rossi: The Game,Racing,Namco Bandai Games,0.0,0.02,0.0,0.0,0.02
+15344,The Technomancer,Role-Playing,Focus Home Interactive,0.01,0.01,0.0,0.0,0.02
+15723,Arslan: The Warriors of Legend,Action,Tecmo Koei,0.01,0.0,0.0,0.0,0.02
+15804,XCOM 2,Strategy,Take-Two Interactive,0.01,0.01,0.0,0.0,0.02
+16225,Carmageddon: Max Damage,Action,Stainless Games,0.01,0.01,0.0,0.0,0.01
+16279,Assetto Corsa,Racing,505 Games,0.0,0.01,0.0,0.0,0.01
+16432,Goat Simulator,Simulation,Koch Media,0.0,0.01,0.0,0.0,0.01
+16451,Assassin's Creed Chronicles,Action,Ubisoft,0.0,0.01,0.0,0.0,0.01
+16533,Sébastien Loeb Rally Evo,Racing,Milestone S.r.l,0.0,0.01,0.0,0.0,0.01
+16534,Hitman (2016),Action,Square Enix,0.0,0.01,0.0,0.0,0.01
+16565,Mighty No. 9,Platform,Deep Silver,0.01,0.0,0.0,0.0,0.01
+16572,Resident Evil 4 HD,Shooter,Capcom,0.01,0.0,0.0,0.0,0.01
+16579,Rugby Challenge 3,Sports,Alternative Software,0.0,0.01,0.0,0.0,0.01

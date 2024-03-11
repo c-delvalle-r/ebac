@@ -1,0 +1,78 @@
+Rank,Name,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales
+95,The Legend of Zelda: Ocarina of Time,Action,Nintendo,4.1,1.89,1.45,0.16,7.6
+342,Banjo-Kazooie,Platform,Nintendo,1.87,1.13,0.55,0.1,3.65
+555,Mario Party,Misc,Nintendo,1.25,0.53,0.87,0.05,2.7
+661,WCW/nWo Revenge,Fighting,THQ,1.94,0.39,0.03,0.02,2.38
+755,Star Wars: Rogue Squadron,Simulation,Nintendo,1.6,0.46,0.08,0.03,2.17
+839,1080°: TenEighty Snowboarding,Sports,Nintendo,1.25,0.61,0.13,0.05,2.03
+945,"Hey You, Pikachu!",Simulation,Nintendo,0.83,0.06,0.93,0.0,1.83
+1154,F-1 World Grand Prix,Racing,Video System,0.46,0.96,0.09,0.08,1.6
+1423,Pocket Monsters Stadium,Strategy,Nintendo,0.0,0.0,1.37,0.0,1.37
+1474,WWF War Zone,Fighting,Acclaim Entertainment,1.08,0.24,0.0,0.02,1.33
+1696,Kobe Bryant in NBA Courtside,Sports,Nintendo,1.02,0.13,0.04,0.01,1.19
+1792,South Park,Shooter,Acclaim Entertainment,0.9,0.23,0.0,0.02,1.14
+1862,F-Zero X,Racing,Nintendo,0.45,0.33,0.29,0.03,1.1
+1955,NFL Blitz,Sports,Midway Games,1.02,0.04,0.0,0.01,1.06
+2114,NASCAR 99,Racing,Electronic Arts,0.94,0.04,0.0,0.01,0.98
+2285,Glover,Platform,Hasbro Interactive,0.72,0.17,0.0,0.01,0.91
+2313,Madden NFL 99,Sports,Electronic Arts,0.84,0.05,0.0,0.01,0.9
+2620,Major League Baseball Featuring Ken Griffey Jr,Sports,Nintendo,0.75,0.03,0.0,0.01,0.79
+2801,Mortal Kombat 4,Fighting,GT Interactive,0.55,0.17,0.0,0.01,0.73
+3176,Cruis'n World,Racing,Nintendo,0.59,0.04,0.0,0.01,0.64
+3205,A Bug's Life,Platform,Activision,0.49,0.13,0.0,0.01,0.63
+3282,NFL Quarterback Club 99,Sports,Acclaim Entertainment,0.59,0.02,0.0,0.0,0.62
+3468,World Cup 98,Sports,Electronic Arts,0.14,0.4,0.0,0.04,0.58
+3469,International Superstar Soccer '98,Sports,Konami Digital Entertainment,0.06,0.3,0.19,0.03,0.58
+3720,FIFA 99,Sports,Electronic Arts,0.11,0.39,0.0,0.03,0.54
+4116,All-Star Baseball 99,Sports,Acclaim Entertainment,0.44,0.04,0.0,0.0,0.48
+4151,NBA Live 99,Sports,Electronic Arts,0.45,0.02,0.0,0.0,0.47
+4188,Bomberman Hero,Platform,Nintendo,0.27,0.06,0.08,0.05,0.47
+4190,Quest 64,Role-Playing,Konami Digital Entertainment,0.38,0.08,0.0,0.01,0.47
+4366,Rampage World Tour,Action,GT Interactive,0.36,0.08,0.0,0.01,0.45
+4533,WipEout 64,Racing,Midway Games,0.28,0.14,0.0,0.01,0.43
+4623,Rush 2: Extreme Racing USA,Racing,Midway Games,0.35,0.06,0.0,0.0,0.42
+4887,NHL 99,Sports,Electronic Arts,0.38,0.01,0.0,0.0,0.39
+4934,Extreme-G: XG2,Racing,Acclaim Entertainment,0.31,0.07,0.0,0.0,0.39
+5396,Off Road Challenge,Racing,GT Interactive,0.27,0.06,0.0,0.0,0.34
+5511,BattleTanx,Action,3DO,0.26,0.06,0.0,0.0,0.33
+5595,NHL Breakaway 98,Sports,Acclaim Entertainment,0.3,0.02,0.0,0.0,0.32
+5756,Goemon's Great Adventure,Platform,Konami Digital Entertainment,0.06,0.02,0.13,0.1,0.31
+5758,Vigilante 8,Racing,Activision,0.25,0.06,0.0,0.0,0.31
+6025,Viz,Racing,Acclaim Entertainment,0.23,0.06,0.0,0.0,0.29
+6026,Top Gear Overdrive,Racing,Kemco,0.23,0.06,0.0,0.0,0.29
+6345,Jikkyou Powerful Pro Yakyuu 5,Sports,Konami Digital Entertainment,0.0,0.0,0.27,0.0,0.27
+6346,NBA Jam 99,Sports,Acclaim Entertainment,0.25,0.02,0.0,0.0,0.27
+6688,Fox Sports College Hoops '99,Sports,Fox Interactive,0.2,0.05,0.0,0.0,0.25
+6692,Gex 64: Enter the Gecko,Action,GT Interactive,0.2,0.05,0.0,0.0,0.25
+7415,WCW Nitro,Fighting,THQ,0.17,0.04,0.0,0.0,0.21
+7620,Twisted Edge Extreme Snowboarding,Sports,Kemco,0.16,0.04,0.0,0.0,0.2
+7623,Body Harvest,Shooter,Gremlin Interactive Ltd,0.16,0.04,0.0,0.0,0.2
+7866,Quake,Shooter,GT Interactive,0.15,0.04,0.0,0.0,0.19
+8583,Fighters Destiny,Fighting,Ocean,0.13,0.03,0.0,0.0,0.16
+8592,Buck Bumble,Action,Ubisoft,0.13,0.03,0.0,0.0,0.16
+9157,Bio FREAKS,Action,GT Interactive,0.11,0.03,0.0,0.0,0.14
+10632,Jeopardy!,Misc,GameTek,0.08,0.02,0.0,0.0,0.1
+10636,Virtual Pool 64,Sports,Crave Entertainment,0.08,0.02,0.0,0.0,0.1
+10640,Lode Runner 3-D,Action,Infogrames,0.08,0.02,0.0,0.0,0.1
+10642,GT64 Championship Edition,Racing,Ocean,0.08,0.02,0.0,0.0,0.1
+10643,Milo's Astro Lanes,Sports,Interplay,0.08,0.02,0.0,0.0,0.1
+11047,V-Rally Edition 99,Racing,Infogrames,0.07,0.02,0.0,0.0,0.09
+11050,Golden Nugget 64,Misc,Electronic Arts,0.07,0.02,0.0,0.0,0.09
+11051,Robotron 64,Shooter,GT Interactive,0.07,0.02,0.0,0.0,0.09
+11478,Knife Edge: NoseGunner,Shooter,Mitsui,0.06,0.02,0.0,0.0,0.08
+11480,Wetrix,Puzzle,Ocean,0.06,0.02,0.0,0.0,0.08
+11481,NHL Breakaway 99,Sports,Acclaim Entertainment,0.07,0.01,0.0,0.0,0.08
+11483,Iggy's Reckin' Balls,Racing,Acclaim Entertainment,0.06,0.02,0.0,0.0,0.08
+11988,Super Robot Spirits,Fighting,Banpresto,0.0,0.0,0.04,0.03,0.07
+12508,Olympic Hockey 98,Sports,GT Interactive,0.05,0.01,0.0,0.0,0.06
+12510,Penny Racers,Racing,THQ,0.05,0.01,0.0,0.0,0.06
+12511,S.C.A.R.S,Racing,Ubisoft,0.05,0.01,0.0,0.0,0.06
+12512,Virtual Chess 64,Misc,Titus,0.05,0.01,0.0,0.0,0.06
+12514,Mike Piazza's Strike Zone,Sports,GT Interactive,0.05,0.01,0.0,0.0,0.06
+12515,Bust-A-Move '99,Puzzle,Acclaim Entertainment,0.05,0.01,0.0,0.0,0.06
+12516,Star Soldier: Vanishing Earth,Shooter,Hudson Entertainment,0.05,0.01,0.0,0.0,0.06
+13118,Chameleon Twist 2,Platform,Infogrames,0.04,0.01,0.0,0.0,0.05
+13712,NBA In The Zone '99,Sports,Konami Digital Entertainment,0.04,0.0,0.0,0.0,0.04
+13746,Deadly Arts,Fighting,Konami Digital Entertainment,0.03,0.01,0.0,0.0,0.04
+14495,Starshot: Space Circus Fever,Platform,Infogrames,0.02,0.01,0.0,0.0,0.03
+14497,Big Mountain 2000,Sports,Imagineer,0.02,0.01,0.0,0.0,0.03

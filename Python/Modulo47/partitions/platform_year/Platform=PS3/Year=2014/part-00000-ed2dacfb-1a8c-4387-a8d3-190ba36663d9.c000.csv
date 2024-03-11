@@ -1,0 +1,109 @@
+Rank,Name,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales
+169,Minecraft,Misc,Sony Computer Entertainment,1.97,2.51,0.0,0.94,5.42
+220,FIFA 15,Sports,Electronic Arts,0.57,3.14,0.04,1.07,4.82
+245,Call of Duty: Advanced Warfare,Shooter,Activision,1.54,1.94,0.19,0.77,4.45
+893,Watch Dogs,Action,Ubisoft,0.56,0.89,0.1,0.37,1.93
+1026,Destiny,Shooter,Activision,0.67,0.66,0.12,0.27,1.73
+1339,Far Cry 4,Shooter,Ubisoft,0.33,0.79,0.08,0.23,1.44
+1373,Madden NFL 15,Sports,Electronic Arts,1.07,0.15,0.0,0.19,1.41
+1415,Assassin's Creed: Rogue,Action,Ubisoft,0.46,0.62,0.06,0.23,1.37
+1424,NBA 2K15,Sports,Take-Two Interactive,0.86,0.27,0.02,0.22,1.36
+1487,Dark Souls II,Role-Playing,Namco Bandai Games,0.4,0.36,0.4,0.17,1.32
+1489,Kingdom Hearts II,Role-Playing,Square Enix,0.52,0.43,0.18,0.19,1.32
+2040,Disney Infinity 2.0: Marvel Super Heroes,Action,Disney Interactive Studios,0.44,0.4,0.0,0.17,1.02
+2053,The LEGO Movie Videogame,Action,Warner Bros. Interactive Entertainment,0.33,0.48,0.02,0.18,1.01
+2118,South Park: The Stick of Truth,Role-Playing,Ubisoft,0.42,0.38,0.0,0.17,0.98
+2267,The Evil Within,Action,Bethesda Softworks,0.26,0.39,0.12,0.14,0.92
+2445,WWE 2K15,Sports,Take-Two Interactive,0.36,0.35,0.0,0.14,0.85
+2551,Lego Batman 3: Beyond Gotham,Action,Warner Bros. Interactive Entertainment,0.33,0.35,0.0,0.13,0.81
+2690,Plants vs. Zombies: Garden Warfare,Shooter,Electronic Arts,0.22,0.4,0.01,0.14,0.76
+2760,LittleBigPlanet 3,Platform,Sony Computer Entertainment,0.2,0.43,0.01,0.11,0.75
+2903,2014 FIFA World Cup Brazil,Sports,Electronic Arts,0.15,0.39,0.01,0.16,0.71
+2955,Skylanders: Trap Team,Action,Activision,0.24,0.33,0.0,0.12,0.69
+3049,Borderlands: The Pre-Sequel,Shooter,Take-Two Interactive,0.25,0.26,0.05,0.11,0.67
+3130,Dragon Age: Inquisition,Role-Playing,Electronic Arts,0.26,0.23,0.05,0.1,0.65
+3183,Middle-Earth: Shadow of Mordor,Action,Warner Bros. Interactive Entertainment,0.2,0.33,0.01,0.1,0.64
+3253,Pro Evolution Soccer 2015,Sports,Konami Digital Entertainment,0.1,0.23,0.22,0.08,0.62
+3267,Metal Gear Solid V: Ground Zeroes,Action,Konami Digital Entertainment,0.14,0.14,0.27,0.06,0.62
+3689,LEGO The Hobbit,Action,Warner Bros. Interactive Entertainment,0.12,0.32,0.0,0.1,0.54
+3945,Wolfenstein: The New Order,Shooter,Bethesda Softworks,0.14,0.25,0.02,0.09,0.51
+4067,F1 2014,Racing,Codemasters,0.07,0.31,0.02,0.08,0.49
+4165,Naruto Shippuden: Ultimate Ninja Storm Revolution,Fighting,Namco Bandai Games,0.15,0.16,0.09,0.08,0.47
+4802,Thief (2014),Action,Square Enix,0.1,0.2,0.02,0.08,0.4
+4961,MLB 14: The Show,Sports,Sony Computer Entertainment America,0.35,0.0,0.0,0.04,0.39
+5015,NHL 15,Sports,Electronic Arts,0.21,0.11,0.0,0.06,0.38
+5071,Mobile Suit Gundam: Extreme VS Full Boost,Fighting,Namco Bandai Games,0.0,0.0,0.38,0.0,0.38
+5089,Alien: Isolation,Shooter,Sega,0.12,0.19,0.0,0.07,0.37
+5504,Dragon Ball Z: Battle of Z,Fighting,Namco Bandai Games,0.1,0.11,0.06,0.05,0.33
+5579,J Stars Victory Vs.,Fighting,Namco Bandai Games,0.04,0.06,0.2,0.02,0.32
+5715,Sniper Elite 3,Shooter,505 Games,0.1,0.15,0.0,0.06,0.31
+5828,One Piece: Unlimited World Red,Action,Namco Bandai Games,0.09,0.12,0.06,0.05,0.3
+5978,The Amazing Spider-Man 2 (2014),Action,Activision,0.06,0.16,0.02,0.05,0.29
+6201,Just Dance 2015,Misc,Ubisoft,0.12,0.11,0.0,0.05,0.28
+6331,Sengoku Basara 4,Action,Capcom,0.0,0.0,0.27,0.0,0.27
+6413,Teenage Mutant Ninja Turtles: Danger of the Ooze,Adventure,Activision,0.11,0.11,0.0,0.05,0.27
+6533,Yakuza: Ishin,Action,Sega,0.0,0.0,0.26,0.0,0.26
+6554,Samurai Warriors 4,Action,Tecmo Koei,0.0,0.0,0.26,0.0,0.26
+6632,Hatsune Miku: Project Diva F 2nd,Misc,Sega,0.09,0.04,0.1,0.03,0.25
+7132,3rd Super Robot Wars Z Jigoku Hen,Role-Playing,Namco Bandai Games,0.0,0.0,0.23,0.0,0.23
+7204,Castlevania: Lords of Shadow 2,Action,Konami Digital Entertainment,0.03,0.13,0.02,0.04,0.22
+7218,The Walking Dead: Season Two,Adventure,Telltale Games,0.09,0.09,0.0,0.04,0.22
+7370,GRID Autosport,Racing,Codemasters,0.05,0.11,0.01,0.04,0.21
+7540,Atelier Shallie: Alchemists of the Dusk Sea,Role-Playing,Tecmo Koei,0.06,0.05,0.08,0.02,0.2
+8083,Guilty Gear Xrd: Sign,Fighting,Arc System Works,0.09,0.0,0.07,0.02,0.18
+8449,Jikkyou Powerful Pro Yakyuu 2014,Sports,Konami Digital Entertainment,0.0,0.0,0.17,0.0,0.17
+8475,Ar Nosurge: Ode to an Unborn Star,Role-Playing,Tecmo Koei,0.05,0.04,0.06,0.02,0.16
+8634,Dengeki Bunko Fighting Climax,Fighting,Sega,0.05,0.0,0.09,0.01,0.16
+8767,Murdered: Soul Suspect,Action,Square Enix,0.05,0.06,0.02,0.02,0.15
+9088,Gundam Breaker 2,Action,Namco Bandai Games,0.0,0.0,0.14,0.0,0.14
+9193,Pro Yaky? Spirits 2014,Sports,Konami Digital Entertainment,0.0,0.0,0.14,0.0,0.14
+9227,Persona 4: Arena Ultimax,Fighting,Atlus,0.0,0.01,0.13,0.0,0.14
+9266,Singstar: Ultimate Party,Misc,Sony Computer Entertainment Europe,0.0,0.12,0.0,0.02,0.14
+9294,Shining Resonance,Role-Playing,Sega,0.0,0.0,0.14,0.0,0.14
+9450,How to Train Your Dragon 2,Adventure,Little Orbit,0.03,0.08,0.0,0.02,0.13
+9459,The IdolM@ster: One for All,Misc,Namco Bandai Games,0.0,0.0,0.13,0.0,0.13
+9475,Under Night In-Birth,Fighting,Nippon Ichi Software,0.06,0.02,0.04,0.02,0.13
+9640,Transformer: Rise of the Dark Spark,Action,Activision,0.04,0.05,0.01,0.02,0.13
+9748,MotoGP 14,Racing,Milestone S.r.l.,0.04,0.06,0.0,0.02,0.12
+9770,Mobile Suit Gundam Side Story: Missing Link,Action,Namco Bandai Games,0.0,0.0,0.12,0.0,0.12
+9799,The Legend of Heroes: Trails of Cold Steel II,Role-Playing,Nippon Ichi Software,0.01,0.0,0.11,0.0,0.12
+9869,Sacred 3,Role-Playing,Deep Silver,0.03,0.05,0.02,0.02,0.12
+9926,Deception IV: Blood Ties,Action,Tecmo Koei,0.02,0.02,0.06,0.01,0.12
+10228,Pac-Man and the Ghostly Adventures 2,Adventure,Namco Bandai Games,0.05,0.04,0.0,0.02,0.11
+10436,Kamen Rider: Battride War II,Action,Namco Bandai Games,0.0,0.0,0.1,0.0,0.1
+10470,The Wolf Among Us,Adventure,Telltale Games,0.05,0.03,0.0,0.02,0.1
+10501,Risen 3: Titan Lords,Role-Playing,Deep Silver,0.02,0.06,0.0,0.02,0.1
+10562,Yaiba: Ninja Gaiden Z,Action,Tecmo Koei,0.05,0.04,0.0,0.02,0.1
+10660,Digimon All-Star Rumble,Fighting,Namco Bandai Games,0.06,0.03,0.0,0.02,0.1
+10669,NASCAR '14,Racing,Deep Silver,0.09,0.0,0.0,0.01,0.1
+11217,Dynasty Warriors 8: Empires,Action,Tecmo Koei,0.0,0.0,0.09,0.0,0.09
+11275,Escape Dead Island,Action,Deep Silver,0.03,0.04,0.0,0.01,0.08
+11525,Lost Dimension,Role-Playing,Nippon Ichi Software,0.05,0.01,0.0,0.01,0.08
+11576,Sherlock Holmes: Crimes & Punishments,Adventure,Focus Home Interactive,0.03,0.04,0.0,0.01,0.08
+12048,Enemy Front,Shooter,City Interactive,0.01,0.05,0.0,0.01,0.07
+12084,Godzilla (2014),Action,Namco Bandai Games,0.0,0.01,0.06,0.0,0.07
+12476,Super Robot Wars OG Saga Masou Kishin F: Coffin of the End,Strategy,Namco Bandai Games,0.0,0.0,0.06,0.0,0.06
+12753,Tokyo Twilight Ghost Hunters,Role-Playing,Aksys Games,0.03,0.0,0.02,0.01,0.06
+12942,Winning Post 8,Racing,Tecmo Koei,0.0,0.0,0.05,0.0,0.05
+13002,Natural Doctrine,Role-Playing,Nippon Ichi Software,0.03,0.01,0.01,0.01,0.05
+13526,Puyo Puyo Tetris,Puzzle,Sega,0.0,0.0,0.04,0.0,0.04
+13930,Shin Hayarigami,Adventure,Nippon Ichi Software,0.0,0.0,0.04,0.0,0.04
+13957,Ragnarok Odyssey,Role-Playing,GungHo,0.03,0.01,0.0,0.01,0.04
+14185,MX vs. ATV Supercross,Racing,Nordic Games,0.02,0.01,0.0,0.01,0.03
+14278,Super Hero Generation,Role-Playing,Namco Bandai Games,0.0,0.0,0.03,0.0,0.03
+14378,Hajime no Ippo: The Fighting! (2014),Sports,Namco Bandai Games,0.0,0.0,0.03,0.0,0.03
+14402,Super Heroine Chronicle,Role-Playing,Namco Bandai Games,0.0,0.0,0.03,0.0,0.03
+14486,Cabela's Big Game Hunter: Pro Hunts,Shooter,Activision,0.03,0.0,0.0,0.0,0.03
+14766,Infinite Stratos 2: Ignition Hearts,Adventure,5pb,0.0,0.0,0.03,0.0,0.03
+14977,The Voice,Action,Activision,0.02,0.0,0.0,0.0,0.02
+15196,Motto! SoniComi,Simulation,Kadokawa Games,0.0,0.0,0.02,0.0,0.02
+15255,Date A Live: Arusu Install,Adventure,Compile Heart,0.0,0.0,0.02,0.0,0.02
+15287,Don Bradman Cricket 14,Sports,Tru Blu Entertainment,0.0,0.02,0.0,0.0,0.02
+15334,The Awakened Fate Ultimatum,Role-Playing,Nippon Ichi Software,0.0,0.0,0.02,0.0,0.02
+15425,CV Casting Voice,Adventure,Namco Bandai Games,0.0,0.0,0.02,0.0,0.02
+15649,Tour de France 2014,Sports,Focus Home Interactive,0.0,0.02,0.0,0.0,0.02
+15842,Dream C Club: GoGo,Adventure,D3Publisher,0.0,0.0,0.02,0.0,0.02
+16218,Tsukigime Ranko's Longest Day,Action,Namco Bandai Games,0.0,0.01,0.0,0.0,0.01
+16253,Strider (2014),Platform,Capcom,0.0,0.0,0.01,0.0,0.01
+16413,"Sakigake!! Otokojuku - Nihon yo, Kore ga Otoko Dearu!",Fighting,Namco Bandai Games,0.0,0.0,0.01,0.0,0.01
+16454,Shin Koihime Musou: Otome Taisen * Sangokushi Engi,Adventure,Views,0.0,0.0,0.01,0.0,0.01

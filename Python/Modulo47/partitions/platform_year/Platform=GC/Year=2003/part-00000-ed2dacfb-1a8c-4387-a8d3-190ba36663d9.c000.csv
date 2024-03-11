@@ -1,0 +1,145 @@
+Rank,Name,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales
+111,Mario Kart: Double Dash!!,Racing,Nintendo,4.12,1.77,0.87,0.19,6.95
+605,Pokémon Colosseum,Role-Playing,Nintendo,1.21,0.57,0.7,0.07,2.54
+805,Mario Party 5,Misc,Nintendo,0.97,0.33,0.73,0.06,2.08
+1139,Kirby Air Ride,Racing,Nintendo,1.01,0.11,0.45,0.04,1.62
+1159,Sonic Heroes,Platform,Sega,1.05,0.44,0.06,0.04,1.6
+1227,Mario Golf: Toadstool Tour,Sports,Nintendo,1.09,0.15,0.25,0.04,1.53
+1253,SoulCalibur II,Fighting,Namco Bandai Games,0.99,0.32,0.11,0.08,1.5
+1269,Final Fantasy: Crystal Chronicles,Role-Playing,Nintendo,0.72,0.38,0.36,0.04,1.49
+1567,Sonic Adventure DX: Director's Cut,Platform,Sega,0.87,0.3,0.06,0.03,1.27
+1663,Need for Speed Underground,Racing,Electronic Arts,0.69,0.48,0.01,0.03,1.21
+1777,Donkey Konga,Misc,Nintendo,0.5,0.16,0.46,0.03,1.15
+1868,Tales of Symphonia,Role-Playing,Nintendo,0.54,0.21,0.31,0.04,1.1
+1999,Naruto: Clash of Ninja 2,Fighting,Nintendo,0.44,0.12,0.45,0.03,1.04
+2086,The Simpsons: Hit & Run,Racing,Vivendi Games,0.77,0.2,0.0,0.03,0.99
+2178,SpongeBob SquarePants: Battle for Bikini Bottom,Platform,THQ,0.74,0.19,0.0,0.03,0.95
+2339,Finding Nemo,Action,THQ,0.69,0.18,0.0,0.02,0.89
+2568,Star Wars Rogue Squadron III: Rebel Strike,Simulation,LucasArts,0.62,0.16,0.0,0.02,0.8
+2605,Harvest Moon: A Wonderful Life,Role-Playing,Ubisoft,0.61,0.16,0.0,0.02,0.79
+2890,"WarioWare, Inc.: Mega Party Game$",Puzzle,Nintendo,0.2,0.05,0.44,0.02,0.71
+2906,Tony Hawk's Underground,Sports,Activision,0.54,0.14,0.0,0.02,0.7
+2959,Dragon Ball Z: Budokai,Fighting,Atari,0.53,0.14,0.0,0.02,0.69
+2966,The Lord of the Rings: The Return of the King,Action,Electronic Arts,0.53,0.14,0.0,0.02,0.69
+2986,Naruto: Clash of Ninja,Fighting,Tomy Corporation,0.53,0.14,0.0,0.02,0.68
+3079,The Sims: Bustin' Out,Simulation,Electronic Arts,0.43,0.2,0.0,0.03,0.66
+3103,F-Zero GX,Racing,Nintendo,0.41,0.11,0.12,0.02,0.65
+3259,Viewtiful Joe,Action,Capcom,0.38,0.1,0.12,0.02,0.62
+3274,Pac-Man Player's Choice Bundle,Misc,Namco Bandai Games,0.48,0.12,0.0,0.02,0.62
+3562,True Crime: Streets of LA,Action,Activision,0.44,0.11,0.0,0.02,0.56
+3898,Madden NFL 2004,Sports,Electronic Arts,0.4,0.1,0.0,0.01,0.51
+4039,The Sims,Simulation,Electronic Arts,0.35,0.13,0.0,0.01,0.49
+4321,Enter the Matrix,Action,Atari,0.34,0.09,0.02,0.01,0.45
+4469,Wario World,Platform,Nintendo,0.34,0.09,0.0,0.01,0.44
+4580,Medal of Honor: Rising Sun,Shooter,Electronic Arts,0.33,0.09,0.0,0.01,0.42
+4790,Tak and the Power of Juju,Platform,THQ,0.31,0.08,0.0,0.01,0.4
+4805,Harry Potter: Quidditch World Cup,Sports,Electronic Arts,0.31,0.08,0.0,0.01,0.4
+5024,SSX 3,Sports,Electronic Arts,0.29,0.08,0.0,0.01,0.38
+5052,Pokemon Channel,Adventure,Nintendo,0.24,0.06,0.07,0.01,0.38
+5424,Teenage Mutant Ninja Turtles,Action,Konami Digital Entertainment,0.26,0.07,0.0,0.01,0.34
+5468,WWE Wrestlemania XIX,Fighting,THQ,0.26,0.07,0.0,0.01,0.33
+5630,Prince of Persia: The Sands of Time,Action,Ubisoft,0.25,0.06,0.0,0.01,0.32
+6134,ATV Quad Power Racing 2,Racing,Acclaim Entertainment,0.22,0.06,0.0,0.01,0.28
+6233,Pokemon Box: Ruby & Sapphire,Misc,Nintendo,0.0,0.0,0.27,0.01,0.28
+6307,Baten Kaitos: Eternal Wings and the Lost Ocean,Role-Playing,Nintendo,0.21,0.05,0.0,0.01,0.27
+6374,NBA Live 2004,Sports,Electronic Arts,0.21,0.05,0.0,0.01,0.27
+6550,Crash Nitro Kart,Racing,Vivendi Games,0.2,0.05,0.0,0.01,0.26
+6668,Billy Hatcher and the Giant Egg,Platform,Sega,0.19,0.05,0.0,0.01,0.25
+6698,Def Jam Vendetta,Fighting,Electronic Arts,0.19,0.05,0.0,0.01,0.25
+7011,Tom Clancy's Splinter Cell,Action,Ubisoft,0.18,0.05,0.0,0.01,0.23
+7149,Mary-Kate and Ashley: Sweet 16 - Licenced to Drive,Misc,Acclaim Entertainment,0.17,0.04,0.0,0.01,0.22
+7383,Naruto: Clash of Ninja (JP sales),Fighting,Tomy Corporation,0.0,0.0,0.21,0.01,0.21
+7401,The Fairly OddParents: Breakin' Da Rules,Platform,THQ,0.16,0.04,0.0,0.01,0.21
+7424,Bionicle,Action,Electronic Arts,0.16,0.04,0.0,0.01,0.21
+7562,From TV Animation One Piece: Grand Battle! 3,Fighting,Namco Bandai Games,0.0,0.0,0.2,0.01,0.2
+7893,Hulk,Action,Universal Interactive,0.15,0.04,0.0,0.01,0.19
+8262,The Hobbit,Platform,Vivendi Games,0.13,0.03,0.0,0.0,0.17
+8309,Looney Tunes: Back in Action,Platform,Warner Bros. Interactive Entertainment,0.13,0.03,0.0,0.0,0.17
+8403,Mega Man Network Transmission,Platform,Capcom,0.13,0.03,0.0,0.0,0.17
+8437,Midway Arcade Treasures,Misc,Midway Games,0.13,0.03,0.0,0.0,0.17
+8521,Hot Wheels World Race,Racing,THQ,0.13,0.03,0.0,0.0,0.16
+8671,Tiger Woods PGA Tour 2004,Sports,Electronic Arts,0.12,0.03,0.0,0.0,0.16
+8738,Burnout 2: Point of Impact,Racing,Acclaim Entertainment,0.12,0.03,0.0,0.0,0.15
+8751,NCAA Football 2004,Sports,Electronic Arts,0.12,0.03,0.0,0.0,0.15
+8793,Frogger's Adventures: The Rescue,Platform,Konami Digital Entertainment,0.12,0.03,0.0,0.0,0.15
+8816,Zoids: Battle Legends,Action,Tomy Corporation,0.12,0.03,0.0,0.0,0.15
+8970,Tom Clancy's Ghost Recon,Shooter,Ubisoft,0.11,0.03,0.0,0.0,0.15
+9122,Sphinx and the Cursed Mummy,Action,THQ,0.11,0.03,0.0,0.0,0.14
+9503,Hitman 2: Silent Assassin,Action,Eidos Interactive,0.1,0.03,0.0,0.0,0.13
+9554,Backyard Baseball,Sports,Infogrames,0.1,0.03,0.0,0.0,0.13
+9637,Freedom Fighters,Shooter,Electronic Arts,0.1,0.03,0.0,0.0,0.13
+9806,X2: Wolverine's Revenge,Platform,Activision,0.09,0.02,0.0,0.0,0.12
+9877,Disney's Extreme Skate Adventure,Sports,Activision,0.09,0.02,0.0,0.0,0.12
+10194,The Adventures of Jimmy Neutron Boy Genius: Jet Fusion,Action,THQ,0.09,0.02,0.0,0.0,0.11
+10310,Starsky & Hutch,Racing,BAM! Entertainment,0.08,0.02,0.0,0.0,0.11
+10440,Jikkyou Powerful Pro Yakyuu 10,Sports,Konami Digital Entertainment,0.0,0.0,0.1,0.0,0.1
+10463,Metal Arms: Glitch in the System,Shooter,Vivendi Games,0.08,0.02,0.0,0.0,0.1
+10566,NHL 2004,Sports,Electronic Arts,0.08,0.02,0.0,0.0,0.1
+10587,Disney's The Haunted Mansion,Platform,Take-Two Interactive,0.08,0.02,0.0,0.0,0.1
+10939,I-Ninja,Platform,Namco Bandai Games,0.07,0.02,0.0,0.0,0.09
+11133,Ikaruga,Shooter,Atari,0.07,0.02,0.0,0.0,0.09
+11215,XIII,Shooter,Ubisoft,0.07,0.02,0.0,0.0,0.09
+11465,Big Mutha Truckers,Racing,Empire Interactive,0.06,0.02,0.0,0.0,0.08
+11491,Harry Potter and the Sorcerer's Stone,Action,Electronic Arts,0.06,0.02,0.0,0.0,0.08
+11535,Superman: Shadow of Apokolips,Action,Atari,0.06,0.02,0.0,0.0,0.08
+11540,Batman: Dark Tomorrow,Action,Kemco,0.06,0.02,0.0,0.0,0.08
+11593,P.N.03 - Product Number Three,Shooter,Capcom,0.06,0.02,0.0,0.0,0.08
+11613,Phantasy Star Online Episode III: C.A.R.D. Revolution,Role-Playing,Sega,0.06,0.02,0.0,0.0,0.08
+11635,WWE Crush Hour,Racing,THQ,0.06,0.02,0.0,0.0,0.08
+11653,Resident Evil 3: Nemesis,Action,Capcom,0.06,0.02,0.0,0.0,0.08
+11654,All-Star Baseball 2004,Sports,Acclaim Entertainment,0.06,0.02,0.0,0.0,0.08
+11690,R: Racing Evolution,Racing,Namco Bandai Games,0.06,0.02,0.0,0.0,0.08
+11696,Conflict: Desert Storm,Shooter,SCi,0.06,0.02,0.0,0.0,0.08
+11779,Gladius,Strategy,Activision,0.06,0.01,0.0,0.0,0.07
+11831,Beyond Good & Evil,Adventure,Ubisoft,0.06,0.01,0.0,0.0,0.07
+11981,Wallace & Gromit in Project Zoo,Platform,BAM! Entertainment,0.05,0.01,0.0,0.0,0.07
+11998,FIFA Soccer 2004,Sports,Electronic Arts,0.05,0.01,0.0,0.0,0.07
+12002,Rayman 3: Hoodlum Havoc,Platform,Ubisoft,0.05,0.01,0.0,0.0,0.07
+12069,Tom and Jerry in War of the Whiskers,Fighting,NewKidCo,0.05,0.01,0.0,0.0,0.07
+12138,Spawn: Armageddon,Action,Electronic Arts,0.05,0.01,0.0,0.0,0.07
+12201,Worms 3D,Strategy,Sega,0.05,0.01,0.0,0.0,0.07
+12325,Tonka Rescue Patrol,Action,TDK Mediactive,0.05,0.01,0.0,0.0,0.06
+12474,Vexx,Platform,Acclaim Entertainment,0.05,0.01,0.0,0.0,0.06
+12478,Batman: Rise of Sin Tzu,Action,Ubisoft,0.05,0.01,0.0,0.0,0.06
+12590,Resident Evil - Code: Veronica X,Action,Capcom,0.05,0.01,0.0,0.0,0.06
+12676,Resident Evil 2,Action,Capcom,0.04,0.01,0.0,0.0,0.06
+12729,Lost Kingdoms II,Role-Playing,Activision,0.04,0.01,0.0,0.0,0.06
+12851,Phantasy Star Online Episode I & II Plus,Role-Playing,Sega,0.04,0.01,0.0,0.0,0.05
+12898,Shaman King: Soul Fight,Platform,Namco Bandai Games,0.0,0.0,0.05,0.0,0.05
+12902,Medabots: Infinity,Role-Playing,Ubisoft,0.04,0.01,0.0,0.0,0.05
+12988,Piglet's Big Game,Platform,Gotham Games,0.04,0.01,0.0,0.0,0.05
+13079,Shrek Super Party,Misc,TDK Mediactive,0.04,0.01,0.0,0.0,0.05
+13080,Monster 4x4: Masters of Metal,Racing,Ubisoft,0.04,0.01,0.0,0.0,0.05
+13174,Rogue Ops,Action,Kemco,0.04,0.01,0.0,0.0,0.05
+13281,Ribbit King,Sports,Atari,0.04,0.01,0.0,0.0,0.05
+13286,Summoner: A Goddess Reborn,Role-Playing,THQ,0.04,0.01,0.0,0.0,0.05
+13353,Black & Bruised,Fighting,Vivendi Games,0.04,0.01,0.0,0.0,0.05
+13369,Super Bubble Pop,Puzzle,Jaleco,0.04,0.01,0.0,0.0,0.05
+13628,MLB SlugFest 20-04,Sports,Midway Games,0.03,0.01,0.0,0.0,0.04
+14166,SX Superstar,Racing,Acclaim Entertainment,0.03,0.01,0.0,0.0,0.03
+14172,Red Faction II,Shooter,THQ,0.03,0.01,0.0,0.0,0.03
+14208,The Italian Job,Racing,Eidos Interactive,0.03,0.01,0.0,0.0,0.03
+14226,The Sum of All Fears,Shooter,Ubisoft,0.03,0.01,0.0,0.0,0.03
+14288,Disney's Hide & Sneak,Action,Capcom,0.03,0.01,0.0,0.0,0.03
+14363,RoadKill,Action,Midway Games,0.02,0.01,0.0,0.0,0.03
+14451,Go! Go! Hypergrind,Sports,Atlus,0.02,0.01,0.0,0.0,0.03
+14598,Drome Racers,Racing,Electronic Arts,0.02,0.01,0.0,0.0,0.03
+14726,Dakar 2: The World's Ultimate Rally,Racing,Acclaim Entertainment,0.02,0.01,0.0,0.0,0.03
+14728,Auto Modellista,Racing,Capcom,0.02,0.01,0.0,0.0,0.03
+14753,Gotcha Force,Shooter,Capcom,0.01,0.0,0.01,0.0,0.03
+14771,Buffy the Vampire Slayer: Chaos Bleeds,Action,Vivendi Games,0.02,0.01,0.0,0.0,0.03
+15152,NFL Blitz Pro,Sports,Midway Games,0.02,0.0,0.0,0.0,0.02
+15184,Muppets Party Cruise,Misc,TDK Mediactive,0.02,0.0,0.0,0.0,0.02
+15274,XGRA: Extreme G Racing Association,Racing,Acclaim Entertainment,0.02,0.0,0.0,0.0,0.02
+15497,Speed Kings,Racing,Acclaim Entertainment,0.01,0.0,0.0,0.0,0.02
+15524,Charlie's Angels,Action,Ubisoft,0.01,0.0,0.0,0.0,0.02
+15671,Freestyle Metal X,Racing,Midway Games,0.01,0.0,0.0,0.0,0.02
+15678,Spirits & Spells,Platform,Wanadoo,0.01,0.0,0.0,0.0,0.02
+15732,Goblin Commander: Unleash the Horde,Strategy,Jaleco,0.01,0.0,0.0,0.0,0.02
+16252,Aquaman: Battle for Atlantis,Action,TDK Mediactive,0.01,0.0,0.0,0.0,0.01
+16311,Army Men: Air Combat - The Elite Missions,Shooter,3DO,0.01,0.0,0.0,0.0,0.01
+16312,Rally Championship,Racing,SCi,0.01,0.0,0.0,0.0,0.01
+16343,Grooverider: Slot Car Thunder,Racing,Encore,0.01,0.0,0.0,0.0,0.01
+16478,Space Raiders,Shooter,Taito,0.01,0.0,0.0,0.0,0.01
+16587,Bust-A-Move 3000,Puzzle,Ubisoft,0.01,0.0,0.0,0.0,0.01
+16597,Men in Black II: Alien Escape,Shooter,Infogrames,0.01,0.0,0.0,0.0,0.01

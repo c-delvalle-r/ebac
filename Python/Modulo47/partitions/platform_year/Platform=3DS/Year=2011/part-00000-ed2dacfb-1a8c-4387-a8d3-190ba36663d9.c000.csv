@@ -1,0 +1,117 @@
+Rank,Name,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales
+43,Mario Kart 7,Racing,Nintendo,4.74,3.91,2.67,0.89,12.21
+54,Super Mario 3D Land,Platform,Nintendo,4.89,2.99,2.13,0.78,10.79
+269,The Legend of Zelda: Ocarina of Time,Action,Nintendo,2.03,1.27,0.62,0.3,4.21
+322,Nintendogs + cats,Simulation,Nintendo,1.44,1.37,0.73,0.27,3.81
+537,Monster Hunter Tri,Role-Playing,Nintendo,0.46,0.29,1.96,0.07,2.79
+977,Professor Layton and the Mask of Miracle,Puzzle,Nintendo,0.32,0.95,0.36,0.14,1.78
+1652,Super Street Fighter IV: 3D Edition,Fighting,Capcom,0.55,0.44,0.14,0.09,1.22
+1783,Pokemon Rumble Blast,Action,Nintendo,0.47,0.26,0.35,0.07,1.14
+1805,LEGO Star Wars III: The Clone Wars,Action,LucasArts,0.61,0.43,0.0,0.09,1.13
+2046,Sonic Generations,Platform,Sega,0.44,0.46,0.01,0.09,1.01
+2171,PilotWings Resort,Simulation,Nintendo,0.4,0.36,0.13,0.07,0.96
+2199,Star Fox 64 3D,Shooter,Nintendo,0.48,0.27,0.13,0.07,0.94
+2521,Tales of the Abyss,Role-Playing,Namco Bandai Games,0.42,0.19,0.14,0.06,0.82
+2692,The Sims 3,Simulation,Electronic Arts,0.3,0.37,0.03,0.07,0.76
+3150,Rayman 3D,Platform,Ubisoft,0.23,0.35,0.0,0.06,0.64
+3252,LEGO Pirates of the Caribbean: The Video Game,Action,Disney Interactive Studios,0.29,0.28,0.0,0.06,0.62
+3300,Cooking Mama 4: Kitchen Magic!,Simulation,505 Games,0.5,0.07,0.0,0.04,0.61
+3541,Skylanders: Spyro's Adventure,Action,Activision,0.32,0.2,0.0,0.05,0.57
+3745,Inazuma Eleven GO,Role-Playing,Nintendo,0.0,0.05,0.48,0.0,0.54
+4019,Ridge Racer 3D,Racing,Namco Bandai Games,0.19,0.15,0.12,0.03,0.5
+4022,Resident Evil: The Mercenaries 3D,Action,Capcom,0.16,0.17,0.13,0.03,0.49
+4023,Super Monkey Ball 3D,Action,Sega,0.26,0.15,0.05,0.04,0.49
+4072,Asphalt 3D,Racing,Ubisoft,0.27,0.16,0.02,0.04,0.49
+4074,Steel Diver,Action,Nintendo,0.31,0.1,0.05,0.03,0.49
+4331,Dead or Alive: Dimensions,Fighting,Ubisoft Annecy,0.13,0.21,0.07,0.03,0.45
+4496,Tetris Axis,Puzzle,Tetris Online,0.2,0.13,0.06,0.03,0.43
+4906,FIFA 12,Sports,Electronic Arts,0.08,0.26,0.0,0.05,0.39
+4926,Combat of Giants: Dinosaurs 3D,Strategy,Ubisoft,0.25,0.06,0.05,0.03,0.39
+4958,Madden NFL Football,Sports,Electronic Arts,0.36,0.01,0.0,0.03,0.39
+4971,Samurai Warriors Chronicles,Action,Tecmo Koei,0.12,0.05,0.2,0.01,0.39
+5012,Raving Rabbids: Travel in Time 3D,Platform,Ubisoft,0.11,0.23,0.0,0.04,0.38
+5075,Pro Evolution Soccer 2011 3D,Sports,Konami Digital Entertainment,0.11,0.13,0.11,0.02,0.38
+5076,Shin Megami Tensei: Devil Survivor Overclocked,Role-Playing,Ghostlight,0.28,0.01,0.06,0.02,0.38
+5399,Tom Clancy's Ghost Recon: Shadow Wars,Strategy,Ubisoft,0.22,0.09,0.0,0.03,0.34
+5717,Bust-A-Move Universe,Puzzle,Square Enix,0.08,0.15,0.06,0.03,0.31
+5873,Tom Clancy's Splinter Cell 3D,Action,Ubisoft,0.14,0.07,0.07,0.02,0.3
+5895,One Piece Unlimited Cruise SP,Action,Namco Bandai Games,0.0,0.0,0.3,0.0,0.3
+6628,Zoo Resort 3D,Simulation,Ubisoft,0.11,0.09,0.03,0.02,0.25
+6802,Ace Combat: Assault Horizon Legacy,Simulation,Namco Bandai Games,0.1,0.06,0.08,0.01,0.24
+7071,WWE All Stars,Fighting,THQ,0.15,0.06,0.0,0.02,0.23
+7075,Wipeout 2,Misc,Activision,0.22,0.0,0.0,0.01,0.23
+7133,Cars 2,Racing,Disney Interactive Studios,0.21,0.0,0.0,0.02,0.23
+7197,Shinobi,Platform,Sega,0.14,0.07,0.0,0.02,0.22
+7329,Transformers: Dark of the Moon,Action,Activision,0.16,0.04,0.0,0.02,0.21
+7513,Frogger 3D,Action,Konami Digital Entertainment,0.16,0.03,0.0,0.01,0.2
+7772,Pac-Man & Galaga Dimensions,Misc,Namco Bandai Games,0.1,0.04,0.04,0.01,0.19
+7804,Need for Speed: The Run,Action,Electronic Arts,0.09,0.09,0.0,0.02,0.19
+7851,SpongeBob SquigglePants 3D,Misc,THQ,0.13,0.05,0.0,0.02,0.19
+7915,NASCAR Unleashed,Racing,Activision,0.18,0.0,0.0,0.01,0.19
+7960,Reel Fishing Paradise 3D,Sports,Marvelous Interactive,0.12,0.0,0.06,0.01,0.19
+8391,Michael Jackson: The Experience 3D,Misc,Ubisoft,0.13,0.03,0.0,0.01,0.17
+8482,F1 2011,Racing,Codemasters,0.07,0.08,0.0,0.02,0.16
+8509,Doctor Lautrec and the Forgotten Knights,Adventure,Konami Digital Entertainment,0.07,0.05,0.03,0.01,0.16
+8532,SD Gundam G Generation 3D,Role-Playing,Namco Bandai Games,0.0,0.0,0.16,0.0,0.16
+8706,Senran Kagura: Sh?jo-tachi no Shinei,Action,Marvelous Interactive,0.0,0.0,0.16,0.0,0.16
+8731,James Noir's Hollywood Crimes,Adventure,Ubisoft,0.07,0.07,0.0,0.02,0.15
+8764,The Adventures of Tintin: The Game,Action,Ubisoft,0.05,0.09,0.0,0.02,0.15
+8965,Pac-Man Party 3D,Misc,Namco Bandai Games,0.09,0.04,0.0,0.01,0.15
+9063,Cave Story 3D,Platform,Nippon Ichi Software,0.09,0.03,0.01,0.01,0.14
+9274,BIT.TRIP SAGA,Misc,Rising Star Games,0.09,0.04,0.0,0.01,0.14
+9366,Ben 10 Galactic Racing,Racing,D3Publisher,0.07,0.06,0.0,0.01,0.13
+9447,Slime MoriMori Dragon Quest 3: Taikaizoku to Shippo Dan,Role-Playing,Square Enix,0.0,0.0,0.13,0.0,0.13
+9469,The Oregon Trail,Simulation,Crave Entertainment,0.12,0.0,0.0,0.01,0.13
+9522,Imagine: Fashion Designer,Simulation,Ubisoft,0.1,0.02,0.0,0.01,0.13
+9536,Puyo Puyo!! 20th Anniversary,Puzzle,Sega,0.0,0.0,0.13,0.0,0.13
+9542,Green Lantern: Rise of the Manhunters,Action,Warner Bros. Interactive Entertainment,0.09,0.03,0.0,0.01,0.13
+9546,Puppies 3D,Misc,Ubisoft,0.08,0.04,0.0,0.01,0.13
+9862,DreamWorks Super Star Kartz,Racing,Activision,0.08,0.03,0.0,0.01,0.12
+9898,Deca Sports Extreme,Sports,Hudson Soft,0.08,0.0,0.03,0.01,0.12
+9923,Jaws: Ultimate Predator,Action,Majesco Entertainment,0.11,0.0,0.0,0.01,0.12
+9933,Spider-Man: Edge of Time,Action,Activision,0.08,0.03,0.0,0.01,0.12
+9984,Brunswick Pro Bowling,Sports,Crave Entertainment,0.11,0.0,0.0,0.01,0.12
+10161,Happy Feet Two,Action,Warner Bros. Interactive Entertainment,0.08,0.02,0.0,0.01,0.11
+10179,NCIS 3D,Adventure,Ubisoft,0.06,0.04,0.0,0.01,0.11
+10186,DualPenSports,Sports,Namco Bandai Games,0.05,0.05,0.0,0.01,0.11
+10240,Gabrielle's Ghostly Groove 3D,Adventure,Funbox Media,0.08,0.02,0.0,0.01,0.11
+10358,BlazBlue: Continuum Shift II,Fighting,PQube,0.05,0.01,0.04,0.01,0.11
+10362,Naruto Shippuden 3D: The New Era,Action,505 Games,0.0,0.04,0.06,0.01,0.11
+10663,Marvel Super Hero Squad: The Infinity Gauntlet,Action,THQ,0.07,0.02,0.0,0.01,0.1
+10689,Generator Rex: Agent of Providence,Action,Activision,0.07,0.02,0.0,0.01,0.1
+10730,Cubic Ninja,Platform,Ubisoft,0.05,0.04,0.0,0.01,0.1
+10734,Pinball Hall of Fame: The Williams Collection,Misc,Crave Entertainment,0.09,0.0,0.0,0.01,0.1
+10739,Thor: God of Thunder,Action,Sega,0.06,0.03,0.0,0.01,0.1
+10805,Cartoon Network: Punch Time Explosion,Fighting,Deep Silver,0.07,0.02,0.0,0.01,0.1
+10983,Driver: Renegade,Racing,Ubisoft,0.05,0.04,0.0,0.01,0.09
+11044,Carnival Games: Wild West 3D,Misc,Take-Two Interactive,0.06,0.02,0.0,0.01,0.09
+11141,Mahjong Cub3D,Puzzle,Sunsoft,0.07,0.0,0.02,0.0,0.09
+11317,Captain America: Super Soldier,Action,Sega,0.05,0.02,0.0,0.01,0.08
+11340,Nano Assault,Shooter,Majesco Entertainment,0.08,0.0,0.0,0.01,0.08
+11349,Nikoli's Pencil Puzzle,Puzzle,Hudson Soft,0.05,0.03,0.0,0.01,0.08
+11360,Gundam the 3D Battle,Action,Namco Bandai Games,0.0,0.0,0.08,0.0,0.08
+11524,Puzzler Mind Gym 3D,Puzzle,Ubisoft,0.07,0.0,0.0,0.0,0.08
+11875,Petz Fantasy 3D,Simulation,Ubisoft,0.07,0.0,0.0,0.0,0.07
+11932,"Horrid Henry: The Good, The Bad and The Bugly",Platform,Asylum Entertainment,0.0,0.06,0.0,0.01,0.07
+11973,Pro Yaky? Spirits 2011,Sports,Konami Digital Entertainment,0.0,0.0,0.07,0.0,0.07
+12443,Nicola Kanshuu: Model * Oshare Audition 2,Action,Alchemist,0.0,0.0,0.06,0.0,0.06
+12785,Yuugen Gaisha Brave Company,Strategy,Namco Bandai Games,0.0,0.0,0.06,0.0,0.06
+12787,Ken to Mahou to Gakuen Mono. 3D,Role-Playing,Acquire,0.0,0.0,0.06,0.0,0.06
+12810,Pro Yakyuu Famista 2011,Sports,Namco Bandai Games,0.0,0.0,0.06,0.0,0.06
+13399,Mahjong 3D: Warriors of the Emperor,Misc,DTP Entertainment,0.0,0.04,0.0,0.01,0.05
+13407,Centipede: Infestation,Shooter,Atari,0.04,0.0,0.0,0.0,0.05
+13435,Nazo Waku Yakata: Oto no Ma ni Ma ni,Misc,Capcom,0.0,0.0,0.05,0.0,0.05
+13538,Gem Smashers,Platform,Crave Entertainment,0.04,0.0,0.0,0.0,0.04
+13584,Riding Stables: The Whitakers present Milton and Friends,Sports,DTP Entertainment,0.0,0.04,0.0,0.0,0.04
+13619,Hana to Ikimo no Rittai Zukan,Misc,Nintendo,0.0,0.0,0.04,0.0,0.04
+13729,Unchained Blades,Role-Playing,FuRyu,0.0,0.0,0.04,0.0,0.04
+14101,FabStyle,Strategy,Tecmo Koei,0.0,0.0,0.03,0.0,0.03
+14231,Angler's Club: Ultimate Bass Fishing 3D,Sports,D3Publisher,0.0,0.03,0.0,0.0,0.03
+14750,Pro Evolution Soccer 2012,Action,Konami Digital Entertainment,0.02,0.0,0.0,0.0,0.03
+15282,Heavy Fire: The Chosen Few 3D,Shooter,Mastiff,0.02,0.0,0.0,0.0,0.02
+15395,Crayon Shin-Chan: Uchuu de Achoo!? Yuujou no Oba-Karate!!,Action,Namco Bandai Games,0.0,0.0,0.02,0.0,0.02
+15882,PachiPara 3D,Misc,Irem Software Engineering,0.0,0.0,0.02,0.0,0.02
+16126,Nintendogs and Cats Golden Retriever and New Friends,Action,Nintendo,0.0,0.01,0.0,0.0,0.01
+16170,Order Up!!,Action,Funbox Media,0.0,0.01,0.0,0.0,0.01
+16465,Outdoors Unleashed: Alaska 3D,Sports,Mastiff,0.01,0.0,0.0,0.0,0.01
+16581,Outdoors Unleashed: Africa 3D,Sports,Mastiff,0.01,0.0,0.0,0.0,0.01

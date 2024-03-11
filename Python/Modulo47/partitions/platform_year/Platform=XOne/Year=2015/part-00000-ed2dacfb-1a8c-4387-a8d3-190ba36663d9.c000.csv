@@ -1,0 +1,80 @@
+Rank,Name,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales
+102,Call of Duty: Black Ops 3,Shooter,Activision,4.52,2.09,0.01,0.67,7.3
+261,Halo 5: Guardians,Shooter,Microsoft Game Studios,2.64,1.2,0.03,0.39,4.26
+288,Fallout 4,Role-Playing,Bethesda Softworks,2.45,1.26,0.01,0.37,4.09
+379,Star Wars Battlefront (2015),Shooter,Electronic Arts,1.94,1.22,0.02,0.31,3.49
+417,FIFA 16,Sports,Electronic Arts,0.88,2.11,0.0,0.23,3.23
+468,Gears of War: Ultimate Edition,Shooter,Microsoft Game Studios,2.38,0.32,0.0,0.31,3.0
+646,Madden NFL 16,Sports,Electronic Arts,2.07,0.08,0.0,0.26,2.4
+683,NBA 2K16,Sports,Take-Two Interactive,1.93,0.14,0.0,0.24,2.32
+1020,Forza Motorsport 6,Racing,Microsoft Game Studios,0.69,0.89,0.03,0.14,1.74
+1319,Batman: Arkham Knight,Action,Warner Bros. Interactive Entertainment,0.86,0.46,0.0,0.13,1.45
+1446,Mortal Kombat X,Fighting,Warner Bros. Interactive Entertainment,1.0,0.21,0.0,0.13,1.35
+1526,Rise of the Tomb Raider,Adventure,Square Enix,0.53,0.64,0.02,0.1,1.3
+1533,Tom Clancy's Rainbow Six: Siege,Shooter,Ubisoft,0.73,0.44,0.0,0.12,1.29
+1545,Assassin's Creed Syndicate,Action,Ubisoft,0.61,0.56,0.0,0.11,1.28
+1563,The Elder Scrolls Online,Role-Playing,Bethesda Softworks,0.77,0.38,0.0,0.12,1.27
+1607,The Witcher 3: Wild Hunt,Role-Playing,Namco Bandai Games,0.66,0.47,0.0,0.11,1.24
+1674,Battlefield: Hardline,Shooter,Electronic Arts,0.72,0.37,0.01,0.11,1.2
+1739,Destiny: The Taken King,Shooter,Activision,0.82,0.23,0.0,0.11,1.17
+2369,Just Cause 3,Action,Square Enix,0.42,0.38,0.0,0.07,0.88
+2556,Dying Light,Action,Warner Bros. Interactive Entertainment,0.43,0.3,0.01,0.07,0.81
+2731,Rare Replay,Misc,Microsoft Game Studios,0.47,0.21,0.01,0.07,0.75
+2896,Metal Gear Solid V: The Phantom Pain,Action,Konami Digital Entertainment,0.37,0.26,0.01,0.06,0.71
+2996,Need for Speed (2015),Racing,Electronic Arts,0.3,0.33,0.0,0.06,0.68
+3233,LEGO Jurassic World,Action,Warner Bros. Interactive Entertainment,0.35,0.22,0.0,0.06,0.63
+3254,Evolve,Shooter,Take-Two Interactive,0.36,0.2,0.0,0.06,0.62
+3458,WWE 2K16,Sports,Take-Two Interactive,0.31,0.22,0.0,0.05,0.58
+3712,Minecraft: Story Mode,Adventure,Mojang,0.29,0.21,0.0,0.05,0.54
+3944,Guitar Hero Live,Misc,Activision,0.29,0.17,0.0,0.05,0.51
+4202,NHL 16,Sports,Electronic Arts,0.37,0.05,0.0,0.05,0.47
+4279,Mad Max (2015),Action,Warner Bros. Interactive Entertainment,0.26,0.16,0.0,0.04,0.46
+4512,Rock Band 4,Misc,Harmonix Music Systems,0.35,0.04,0.0,0.04,0.43
+4771,Borderlands: The Handsome Collection,Shooter,Take-Two Interactive,0.24,0.13,0.0,0.04,0.41
+5109,LEGO Dimensions,Action,Warner Bros. Interactive Entertainment,0.21,0.13,0.0,0.03,0.37
+5693,Just Dance 2016,Misc,Ubisoft,0.24,0.04,0.0,0.03,0.32
+5701,Dragon Ball: XenoVerse,Fighting,Namco Bandai Games,0.18,0.11,0.0,0.03,0.31
+5764,Disney Infinity 3.0,Action,Disney Interactive Studios,0.18,0.1,0.0,0.03,0.31
+6428,Rory McIlroy PGA Tour,Action,Electronic Arts,0.15,0.09,0.0,0.02,0.27
+6703,Final Fantasy Type-0,Role-Playing,Square Enix,0.15,0.07,0.0,0.02,0.25
+6827,F1 2015,Racing,Codemasters,0.08,0.15,0.0,0.02,0.24
+7021,Skylanders: SuperChargers,Action,Activision,0.16,0.05,0.0,0.02,0.23
+7050,Project CARS,Racing,Slightly Mad Studios,0.08,0.13,0.0,0.02,0.23
+7163,Dark Souls II,Role-Playing,Namco Bandai Games,0.13,0.07,0.0,0.02,0.22
+7550,State of Decay,Strategy,Microsoft Game Studios,0.14,0.05,0.0,0.02,0.2
+7609,Saints Row IV,Action,Deep Silver,0.1,0.09,0.0,0.02,0.2
+7834,Farming Simulator 2015,Simulation,Koch Media,0.1,0.07,0.0,0.02,0.19
+8430,Payday 2,Shooter,505 Games,0.08,0.07,0.0,0.01,0.17
+8770,Wolfenstein: The Old Blood,Action,Bethesda Softworks,0.07,0.07,0.0,0.01,0.15
+9034,Dishonored,Action,Bethesda Softworks,0.08,0.05,0.0,0.01,0.14
+9371,Transformers: Devastation,Action,Activision,0.09,0.03,0.0,0.01,0.13
+9373,DmC: Devil May Cry,Action,Capcom,0.08,0.04,0.0,0.01,0.13
+9473,Hasbro Family Fun Pack,Misc,Ubisoft,0.1,0.02,0.0,0.01,0.13
+9959,Deadpool,Action,Activision,0.08,0.03,0.0,0.01,0.12
+10031,Tony Hawk's Pro Skater 5,Sports,Activision,0.08,0.02,0.0,0.01,0.11
+10509,Zombie Army Trilogy,Shooter,Rebellion Developments,0.04,0.05,0.0,0.01,0.1
+10558,Pro Evolution Soccer 2016,Sports,Konami Digital Entertainment,0.03,0.06,0.0,0.01,0.1
+10612,NBA Live 16,Sports,Electronic Arts,0.08,0.01,0.0,0.01,0.1
+10704,Ride,Racing,Milestone S.r.l.,0.04,0.05,0.0,0.01,0.1
+10754,Resident Evil: Revelations 2,Action,Capcom,0.07,0.02,0.0,0.01,0.1
+11243,Rugby 15,Sports,Bigben Interactive,0.03,0.05,0.0,0.01,0.09
+11307,Dead or Alive 5,Fighting,Tecmo Koei,0.04,0.03,0.01,0.01,0.08
+12073,Divinity: Original Sin,Role-Playing,Focus Home Interactive,0.04,0.02,0.0,0.01,0.07
+12119,Just Dance: Disney Party 2,Action,Ubisoft,0.05,0.01,0.0,0.01,0.07
+12521,BlazBlue: Chrono Phantasma Extend,Action,PQube,0.05,0.01,0.0,0.01,0.06
+12547,Darksiders II,Action,Nordic Games,0.03,0.02,0.0,0.01,0.06
+12960,Toy Soldiers: War Chest,Action,Ubisoft,0.05,0.0,0.0,0.01,0.05
+13126,Adventure Time: Finn & Jake Investigations,Action,Little Orbit,0.02,0.02,0.0,0.0,0.05
+13217,Bladestorm: Nightmare,Action,Tecmo Koei,0.03,0.02,0.0,0.0,0.05
+13290,Wasteland 2,Role-Playing,Deep Silver,0.04,0.01,0.0,0.0,0.05
+13860,Brothers: A Tale of Two Sons,Adventure,505 Games,0.03,0.01,0.0,0.0,0.04
+13925,Don Bradman Cricket 14,Sports,Tru Blu Entertainment,0.0,0.04,0.0,0.0,0.04
+14413,MotoGP 15,Racing,Milestone S.r.l.,0.0,0.03,0.0,0.0,0.03
+14592,Game of Thrones (Telltale),Adventure,Telltale Games,0.03,0.0,0.0,0.0,0.03
+15156,Rugby World Cup 2015,Sports,Ubisoft,0.0,0.02,0.0,0.0,0.02
+15615,The Crew: Wild Run,Action,Ubisoft,0.0,0.02,0.0,0.0,0.02
+15710,Back to the Future: The Game,Adventure,Telltale Games,0.0,0.02,0.0,0.0,0.02
+15730,MX vs. ATV Supercross Encore,Sports,Nordic Games,0.02,0.0,0.0,0.0,0.02
+16040,WRC 5: FIA World Rally Championship,Sports,Bigben Interactive,0.0,0.01,0.0,0.0,0.01
+16237,Broken Sword 5: The Serpent's Curse,Adventure,Revolution Software,0.0,0.01,0.0,0.0,0.01
+16455,Rugby League Live 3,Action,Tru Blu Entertainment,0.0,0.01,0.0,0.0,0.01

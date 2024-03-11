@@ -1,0 +1,66 @@
+Rank,Name,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales
+258,Call of Duty: Advanced Warfare,Shooter,Activision,2.75,1.18,0.0,0.37,4.31
+450,FIFA 15,Sports,Electronic Arts,0.78,2.02,0.0,0.3,3.11
+844,Madden NFL 15,Sports,Electronic Arts,1.76,0.09,0.0,0.17,2.02
+873,Destiny,Shooter,Activision,1.3,0.49,0.0,0.16,1.95
+1132,NBA 2K15,Sports,Take-Two Interactive,1.33,0.14,0.0,0.15,1.63
+1405,Titanfall,Shooter,Electronic Arts,0.87,0.38,0.02,0.11,1.38
+1490,The LEGO Movie Videogame,Action,Warner Bros. Interactive Entertainment,0.69,0.52,0.0,0.11,1.32
+1541,Watch Dogs,Action,Ubisoft,0.72,0.45,0.01,0.11,1.28
+1762,Plants vs. Zombies: Garden Warfare,Shooter,Electronic Arts,0.51,0.54,0.0,0.1,1.16
+1826,Disney Infinity 2.0: Marvel Super Heroes,Action,Disney Interactive Studios,0.62,0.4,0.0,0.1,1.12
+1966,Assassin's Creed: Rogue,Action,Ubisoft,0.58,0.38,0.0,0.09,1.05
+2121,Far Cry 4,Shooter,Ubisoft,0.45,0.44,0.0,0.08,0.98
+2179,South Park: The Stick of Truth,Role-Playing,Ubisoft,0.57,0.3,0.0,0.08,0.95
+2194,Lego Batman 3: Beyond Gotham,Action,Warner Bros. Interactive Entertainment,0.48,0.38,0.0,0.08,0.95
+2240,Skylanders: Trap Team,Action,Activision,0.54,0.31,0.0,0.08,0.93
+2429,Forza Horizon 2,Racing,Microsoft Game Studios,0.35,0.43,0.0,0.07,0.85
+2722,Dark Souls II,Role-Playing,Namco Bandai Games,0.48,0.2,0.01,0.06,0.76
+2759,Borderlands: The Pre-Sequel,Shooter,Take-Two Interactive,0.46,0.22,0.01,0.06,0.75
+2943,WWE 2K15,Sports,Take-Two Interactive,0.38,0.26,0.0,0.06,0.69
+3189,Just Dance 2015,Misc,Ubisoft,0.41,0.16,0.0,0.06,0.63
+3633,Dragon Age: Inquisition,Role-Playing,Electronic Arts,0.35,0.16,0.0,0.05,0.55
+3731,Middle-Earth: Shadow of Mordor,Action,Warner Bros. Interactive Entertainment,0.28,0.21,0.0,0.05,0.54
+3972,LEGO The Hobbit,Action,Warner Bros. Interactive Entertainment,0.2,0.26,0.0,0.04,0.5
+4014,The Evil Within,Action,Bethesda Softworks,0.25,0.2,0.01,0.04,0.5
+4137,Fable,Role-Playing,Microsoft Game Studios,0.25,0.19,0.01,0.04,0.48
+4170,2014 FIFA World Cup Brazil,Sports,Electronic Arts,0.14,0.28,0.0,0.04,0.47
+4212,NHL 15,Sports,Electronic Arts,0.35,0.07,0.0,0.04,0.47
+4704,Wolfenstein: The New Order,Shooter,Bethesda Softworks,0.18,0.19,0.0,0.04,0.41
+5618,Sniper Elite 3,Shooter,505 Games,0.16,0.14,0.0,0.03,0.32
+5829,Alien: Isolation,Shooter,Sega,0.15,0.13,0.0,0.03,0.3
+5955,Thief (2014),Action,Square Enix,0.14,0.13,0.0,0.03,0.3
+6447,The Crew,Racing,Ubisoft,0.06,0.18,0.0,0.02,0.26
+6538,The Amazing Spider-Man 2 (2014),Action,Activision,0.1,0.14,0.0,0.02,0.26
+6555,F1 2014,Racing,Codemasters,0.08,0.15,0.0,0.02,0.26
+7042,Naruto Shippuden: Ultimate Ninja Storm Revolution,Fighting,Namco Bandai Games,0.13,0.08,0.0,0.02,0.23
+7224,Teenage Mutant Ninja Turtles: Danger of the Ooze,Adventure,Activision,0.11,0.09,0.0,0.02,0.22
+7660,How to Train Your Dragon 2,Adventure,Little Orbit,0.05,0.13,0.0,0.02,0.2
+8330,Transformer: Rise of the Dark Spark,Action,Activision,0.09,0.07,0.0,0.02,0.17
+8529,Pro Evolution Soccer 2015,Sports,Konami Digital Entertainment,0.05,0.1,0.0,0.01,0.16
+8537,NASCAR '14,Racing,Deep Silver,0.15,0.0,0.0,0.01,0.16
+8755,Metal Gear Solid V: Ground Zeroes,Action,Konami Digital Entertainment,0.07,0.06,0.01,0.01,0.15
+9892,The Walking Dead: Season Two,Adventure,Telltale Games,0.04,0.07,0.0,0.01,0.12
+10125,Pac-Man and the Ghostly Adventures 2,Adventure,Namco Bandai Games,0.05,0.05,0.0,0.01,0.11
+10308,Murdered: Soul Suspect,Action,Square Enix,0.06,0.04,0.0,0.01,0.11
+10491,Castlevania: Lords of Shadow 2,Action,Konami Digital Entertainment,0.02,0.07,0.0,0.01,0.1
+10581,GRID Autosport,Racing,Codemasters,0.03,0.06,0.0,0.01,0.1
+11090,MotoGP 14,Racing,Milestone S.r.l.,0.04,0.04,0.0,0.01,0.09
+11180,Escape Dead Island,Action,Deep Silver,0.03,0.05,0.0,0.01,0.09
+11205,Adventure Time: The Secret of the Nameless Kingdom,Action,Little Orbit,0.0,0.08,0.0,0.01,0.09
+11285,MX vs. ATV Supercross,Racing,Nordic Games,0.03,0.05,0.0,0.01,0.08
+11302,Risen 3: Titan Lords,Role-Playing,Deep Silver,0.02,0.06,0.0,0.01,0.08
+11490,Persona 4: Arena Ultimax,Fighting,Atlus,0.06,0.01,0.0,0.01,0.08
+11514,Dragon Ball Z: Battle of Z,Fighting,Namco Bandai Games,0.01,0.06,0.0,0.01,0.08
+11568,The Voice,Action,Activision,0.07,0.0,0.0,0.01,0.08
+11806,Tropico 5,Simulation,Kalypso Media,0.03,0.04,0.0,0.01,0.07
+11887,Fantasia: Music Evolved,Misc,Disney Interactive Studios,0.05,0.01,0.0,0.01,0.07
+12347,Sherlock Holmes: Crimes & Punishments,Adventure,Focus Home Interactive,0.03,0.03,0.0,0.01,0.06
+12529,Digimon All-Star Rumble,Fighting,Namco Bandai Games,0.04,0.01,0.0,0.01,0.06
+12597,Sacred 3,Role-Playing,Deep Silver,0.03,0.03,0.0,0.01,0.06
+13048,Enemy Front,Shooter,Namco Bandai Games,0.02,0.03,0.0,0.0,0.05
+13150,Yaiba: Ninja Gaiden Z,Action,Tecmo Koei,0.03,0.02,0.0,0.0,0.05
+14767,Cabela's Big Game Hunter: Pro Hunts,Shooter,Activision,0.02,0.0,0.0,0.0,0.03
+15991,Don Bradman Cricket 14,Sports,Tru Blu Entertainment,0.0,0.01,0.0,0.0,0.01
+16204,Adventure Time: The Secret of the Nameless,Adventure,Little Orbit,0.01,0.0,0.0,0.0,0.01
+16556,Bound By Flame,Role-Playing,N/A,0.0,0.01,0.0,0.0,0.01

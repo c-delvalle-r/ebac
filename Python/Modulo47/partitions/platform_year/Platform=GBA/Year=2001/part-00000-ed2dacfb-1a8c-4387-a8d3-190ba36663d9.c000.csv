@@ -1,0 +1,108 @@
+Rank,Name,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales
+163,Super Mario Advance,Platform,Nintendo,3.14,1.24,0.91,0.2,5.49
+164,Mario Kart: Super Circuit,Racing,Nintendo,2.62,1.64,0.99,0.23,5.47
+165,Super Mario World,Platform,Nintendo,3.21,1.11,0.95,0.2,5.46
+265,Namco Museum,Misc,Namco Bandai Games,3.0,1.11,0.05,0.07,4.24
+489,Pac-Man Collection,Puzzle,Atari,2.07,0.77,0.05,0.05,2.94
+711,Wario Land 4,Platform,Nintendo,0.9,0.73,0.54,0.09,2.26
+722,Sonic Advance,Platform,Sega,1.19,0.71,0.22,0.13,2.24
+723,Spyro: Season of Ice,Platform,Vivendi Games,1.29,0.83,0.0,0.11,2.23
+814,Yu-Gi-Oh! The Eternal Duelist Soul,Strategy,Konami Digital Entertainment,1.64,0.36,0.0,0.07,2.07
+992,Golden Sun,Role-Playing,Nintendo,0.93,0.38,0.4,0.06,1.76
+1049,Tetris Worlds,Puzzle,THQ,1.25,0.39,0.0,0.06,1.71
+1068,Harry Potter and the Sorcerer's Stone,Action,Electronic Arts,0.87,0.66,0.08,0.08,1.69
+1093,"Monsters, Inc.",Adventure,THQ,0.59,0.95,0.03,0.1,1.67
+1713,Tony Hawk's Pro Skater 2,Sports,Activision,0.85,0.31,0.0,0.02,1.18
+2002,F-Zero: Maximum Velocity,Racing,Nintendo,0.39,0.16,0.37,0.12,1.04
+2332,Castlevania: Circle of the Moon,Platform,Konami Digital Entertainment,0.6,0.22,0.05,0.02,0.89
+2774,Yu-Gi-Oh! Dungeon Dice Monsters,Misc,Konami Digital Entertainment,0.42,0.16,0.15,0.01,0.74
+2916,F-14 Tomcat,Action,Majesco Entertainment,0.5,0.19,0.0,0.01,0.7
+2925,Advance Wars,Strategy,Nintendo,0.5,0.19,0.0,0.01,0.7
+3327,Spider-Man: Mysterio's Menace,Action,Activision,0.43,0.16,0.0,0.01,0.61
+3673,SpongeBob SquarePants: SuperSponge,Action,THQ,0.39,0.15,0.0,0.01,0.55
+3981,Tactics Ogre: The Knight of Lodis,Role-Playing,Nintendo,0.13,0.05,0.31,0.01,0.5
+4007,Rayman Advance,Platform,Ubisoft,0.36,0.13,0.0,0.01,0.5
+4133,Midnight Club: Street Racing,Racing,Rebellion,0.34,0.13,0.0,0.01,0.48
+4229,Iridion 3D,Shooter,THQ,0.33,0.12,0.0,0.01,0.46
+4258,Scooby-Doo,Platform,THQ,0.33,0.12,0.0,0.01,0.46
+4272,Rugrats: Castle Capers,Action,THQ,0.33,0.12,0.0,0.01,0.46
+4373,Tekken Advance,Fighting,Infogrames,0.32,0.12,0.0,0.01,0.45
+4576,Mega Man Battle Network,Role-Playing,Capcom,0.14,0.05,0.22,0.01,0.42
+4653,Jimmy Neutron: Boy Genius,Platform,THQ,0.3,0.11,0.0,0.01,0.42
+4681,Dexter's Laboratory Deesaster Strikes,Adventure,BAM! Entertainment,0.3,0.11,0.0,0.01,0.41
+4683,Scooby-Doo and the Cyber Chase,Adventure,Ubisoft,0.3,0.11,0.0,0.01,0.41
+4758,Yu-Gi-Oh! The Eternal Duelist Soul (JP sales),Misc,Konami Digital Entertainment,0.0,0.0,0.4,0.01,0.41
+4842,Rocket Power: Dream Scheme,Action,THQ,0.29,0.11,0.0,0.01,0.4
+5214,Shaun Palmer's Pro Snowboarder,Sports,Activision,0.26,0.1,0.0,0.01,0.36
+5241,Super Robot Taisen A,Strategy,Banpresto,0.0,0.0,0.35,0.01,0.36
+5507,GT Advance Championship Racing,Racing,THQ,0.24,0.09,0.0,0.01,0.33
+5636,Fortress,Action,Majesco Entertainment,0.23,0.08,0.0,0.01,0.32
+5676,Madden NFL 2002,Sports,Electronic Arts,0.23,0.08,0.0,0.01,0.32
+5815,KuruKuru Kururin,Puzzle,Nintendo,0.0,0.0,0.3,0.01,0.31
+6102,Earthworm Jim,Platform,Interplay,0.2,0.08,0.0,0.01,0.29
+6130,X-Men: Reign of Apocalypse,Action,Activision,0.2,0.08,0.0,0.01,0.28
+6181,Pitfall: The Mayan Adventure,Platform,Interplay,0.2,0.07,0.0,0.01,0.28
+6250,Power Pro Kun Pocket 3,Sports,Konami Digital Entertainment,0.0,0.0,0.27,0.01,0.28
+6278,M&M's Blast!,Puzzle,Unknown,0.2,0.07,0.0,0.0,0.27
+6358,Mat Hoffman's Pro BMX,Sports,Activision,0.19,0.07,0.0,0.0,0.27
+6372,Magical Vacation,Role-Playing,Nintendo,0.0,0.0,0.26,0.01,0.27
+6609,Super Street Fighter II: Turbo Revival,Fighting,Ubisoft,0.18,0.07,0.0,0.0,0.25
+6665,Bomberman Tournament,Puzzle,Activision,0.1,0.04,0.1,0.01,0.25
+6669,Midway's Greatest Arcade Hits,Misc,Midway Games,0.18,0.07,0.0,0.0,0.25
+7146,EX Monopoly,Misc,Takara,0.16,0.06,0.0,0.0,0.22
+7172,Breath of Fire,Role-Playing,Ubisoft,0.11,0.04,0.06,0.0,0.22
+7475,Final Fight One,Fighting,Ubisoft,0.09,0.03,0.08,0.0,0.21
+7590,Super Dodge Ball Advance,Sports,Ubisoft,0.14,0.05,0.0,0.0,0.2
+7711,Power Rangers: Time Force,Action,THQ,0.14,0.05,0.0,0.0,0.2
+7760,Breath of Fire II,Role-Playing,Ubisoft,0.14,0.05,0.0,0.0,0.19
+7824,Dave Mirra Freestyle BMX 2,Sports,Acclaim Entertainment,0.14,0.05,0.0,0.0,0.19
+7966,Jackie Chan Adventures: Legend of the Dark Hand,Action,Activision,0.13,0.05,0.0,0.0,0.19
+8036,Jurassic Park III: Island Attack,Adventure,Konami Digital Entertainment,0.13,0.05,0.0,0.0,0.18
+8111,Batman: Vengeance,Adventure,Ubisoft,0.13,0.05,0.0,0.0,0.18
+8185,ESPN X Games Skateboarding,Sports,Konami Digital Entertainment,0.13,0.05,0.0,0.0,0.18
+8227,Sports Illustrated for Kids: Baseball,Sports,BAM! Entertainment,0.12,0.05,0.0,0.0,0.17
+8271,ESPN Final Round Golf 2002,Sports,Konami Digital Entertainment,0.12,0.05,0.0,0.0,0.17
+8581,The Wild Thornberrys: Chimp Chase,Action,THQ,0.11,0.04,0.0,0.0,0.16
+8640,Konami Krazy Racers,Racing,Konami Digital Entertainment,0.09,0.03,0.04,0.0,0.16
+8646,Mr. Driller 2,Puzzle,Namco Bandai Games,0.0,0.0,0.15,0.0,0.16
+8684,MX 2002 Featuring Ricky Carmichael,Racing,THQ,0.11,0.04,0.0,0.0,0.16
+9035,Klonoa: Empire of Dreams,Platform,Infogrames,0.1,0.04,0.0,0.0,0.14
+9087,Doom,Shooter,Activision,0.1,0.04,0.0,0.0,0.14
+9455,Fire ProWrestling,Fighting,Spike,0.09,0.03,0.0,0.0,0.13
+9597,Snood,Puzzle,"Destination Software, Inc",0.09,0.03,0.0,0.0,0.13
+9667,Disney's Atlantis: The Lost Empire,Platform,THQ,0.09,0.03,0.0,0.0,0.12
+9998,GT Advance 2: Rally Racing,Racing,THQ,0.08,0.03,0.0,0.0,0.11
+10295,Lady Sia,Platform,TDK Mediactive,0.08,0.03,0.0,0.0,0.11
+10631,L'Aigle de Guerre,Strategy,Nintendo,0.0,0.0,0.1,0.0,0.1
+11225,ChuChu Rocket!,Strategy,Atari,0.06,0.02,0.0,0.0,0.09
+11354,Gradius Galaxies,Shooter,Konami Digital Entertainment,0.06,0.02,0.0,0.0,0.08
+11402,Pinobee: Wings of Adventure,Platform,Hudson Entertainment,0.06,0.02,0.0,0.0,0.08
+11556,Boxing Fever,Sports,THQ,0.06,0.02,0.0,0.0,0.08
+11878,Disney's Donald Duck Advance,Platform,Ubisoft,0.05,0.02,0.0,0.0,0.07
+11985,Caesars Palace Advance: Millennium Gold Edition,Misc,Majesco Entertainment,0.05,0.02,0.0,0.0,0.07
+12231,Pocky & Rocky with Becky,Shooter,Altron,0.05,0.02,0.0,0.0,0.07
+12248,Hot Wheels: Burnin' Rubber,Racing,THQ,0.05,0.02,0.0,0.0,0.06
+12374,Jurassic Park III: Park Builder,Simulation,Konami Digital Entertainment,0.04,0.02,0.0,0.0,0.06
+12383,LEGO Bionicle,Platform,LEGO Media,0.04,0.02,0.0,0.0,0.06
+12700,Zone of the Enders: The Fist of Mars,Role-Playing,Konami Digital Entertainment,0.04,0.02,0.0,0.0,0.06
+13092,Puyo Pop,Puzzle,Sega,0.04,0.01,0.0,0.0,0.05
+13209,Super Bust-A-Move,Puzzle,Ubisoft,0.03,0.01,0.0,0.0,0.05
+13259,American Bass Challenge,Sports,Starfish,0.03,0.01,0.0,0.0,0.05
+13297,ESPN Great Outdoor Games Bass 2002,Sports,Konami Digital Entertainment,0.03,0.01,0.0,0.0,0.05
+13593,No Rules: Get Phat,Action,TDK Mediactive,0.03,0.01,0.0,0.0,0.04
+13863,Denki Blocks!,Puzzle,Rage Software,0.03,0.01,0.0,0.0,0.04
+14045,Hot Potato!,Action,BAM! Entertainment,0.03,0.01,0.0,0.0,0.04
+14107,Alienators: Evolution Continues,Action,Activision,0.03,0.01,0.0,0.0,0.03
+14171,Driven,Racing,BAM! Entertainment,0.02,0.01,0.0,0.0,0.03
+14201,Monster Guardians,Role-Playing,Konami Digital Entertainment,0.0,0.0,0.03,0.0,0.03
+14310,The Flintstones: Big Trouble in Bedrock,Platform,Swing! Entertainment,0.02,0.01,0.0,0.0,0.03
+14563,Planet of the Apes,Action,Ubisoft,0.02,0.01,0.0,0.0,0.03
+15364,Prehistorik Man,Platform,THQ,0.01,0.01,0.0,0.0,0.02
+15456,Car Battler Joe,Role-Playing,Victor Interactive,0.01,0.01,0.0,0.0,0.02
+15625,Tiny Toon Adventures: Wacky Stackers,Puzzle,Conspiracy Entertainment,0.01,0.0,0.0,0.0,0.02
+15633,Robopon 2: Cross Version,Role-Playing,Hudson Entertainment,0.01,0.0,0.0,0.0,0.02
+15914,Robopon 2: Ring Version,Role-Playing,Hudson Entertainment,0.01,0.0,0.0,0.0,0.02
+16241,Kao the Kangaroo,Platform,Titus,0.01,0.0,0.0,0.0,0.01
+16464,Razor Freestyle Scooter,Sports,Ubisoft,0.01,0.0,0.0,0.0,0.01
+16552,E.T. The Extra-Terrestrial,Action,NewKidCo,0.01,0.0,0.0,0.0,0.01
+16585,Planet Monsters,Action,Titus,0.01,0.0,0.0,0.0,0.01
